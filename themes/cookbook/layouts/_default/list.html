@@ -8,7 +8,7 @@
 
     {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    <img src="{{.Params.featured_image}}" width="200">
+    <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="200">
     {{ .Summary }}
     {{ end }}
 
