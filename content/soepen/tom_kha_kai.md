@@ -2,7 +2,7 @@
 title: 'Tom kha kai'
 date: 2023-12-28T14:33:23+01:00
 draft: true
-featured_image: "IMG_2183.jpeg"
+featured_image: "/IMG_2183.jpeg"
 ---
 
 **Ingrediënten**

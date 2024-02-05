@@ -1,4 +1,4 @@
 baseURL = 'https://kirstenskookcreaties.org/'
 languageCode = 'nl-NL'
 title = 'Kirstens Kook Creaties'
-theme = 'ananke'
+theme = 'cookbook'

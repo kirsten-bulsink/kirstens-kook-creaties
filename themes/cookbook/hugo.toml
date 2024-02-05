@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[[menus.main]]
+name = 'Ontbijt'
+pageRef = '/ontbijt'
+weight = 10
+
+[[menus.main]]
+name = 'Soepen'
+pageRef = '/soepen'
+weight = 20
+
+[[menus.main]]
+name = 'Italiaans'
+pageRef = '/italiaans'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+

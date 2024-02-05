@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  <header>
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    {{/* {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    <br> */}}
+    <div class="columns">
+      <div class="column is-one-fifth">
+        {{ partial "sidebar.html"}}
+      </div>
+      <div class="column">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </div>
+  </main>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+</body>
+
+</html>

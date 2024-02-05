@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="container">
+
+  <!-- This refers to the index md file in the content folder -->
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <!-- This is a list with links to newest recipe content -->
+  <div class="content">
+    <h1>Nieuwste recepten</h1>
+    {{ range where .Site.RegularPages "Type" "soepen" }}
+    <a href="{{ .Permalink }}">{{ .Title}}</a>
+    {{ .Params.date.Format "Mon Jan 2, 2006"}} <br>
+    {{ end }}
+  </div>
+
+</div>
+
+{{ end }}
