@@ -8,7 +8,7 @@
     {{ $dateHuman := .Date | time.Format ":date_long" }}
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
     
-    <img src="{{.Params.featured_image}}" width="500">
+    <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="500">
     
     {{ .Content }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
