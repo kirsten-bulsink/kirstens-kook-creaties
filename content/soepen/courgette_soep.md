@@ -1,7 +1,6 @@
 ---
 title: 'Courgette soep'
 date: 2023-12-28T14:19:39+01:00
-draft: true
 ---
 
 **Ingrediënten**
