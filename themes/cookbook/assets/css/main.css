@@ -70,47 +70,22 @@ h6 {
   isolation: isolate;
 }
 
+
+
+
+
 /* Start of my custom CSS */
 
 body {
-  color: #222;
-  font-family: sans-serif;
-  background-color: antiquewhite;
+  /* font-family: sans-serif; */
+  /* background-color: rgb(247, 240, 231); */
   line-height: 1.5;
   /* margin: 1rem; */
-  /* max-width: 768px; */
 }
-
-header {
-  /* border-bottom: 1px solid #222; */
-  /* background-color: #363636; */
-  margin-bottom: 1rem;
-}
-
-/* .navbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 50px;
-  background: #363636;
-  padding: 10px;
-} */
-
-/* more info for navbar__left and right at: https://draft.dev/learn/creating-hugo-themes */
-
-/* header a {
-  color: white;
-} */
-
-/* a {
-  color: black;
-  text-decoration: none;
-} */
 
 main {
   margin: 1rem;
-  min-height: fit-content;
-  /* display: flex; */
+  min-height: 100vh;
 }
 
 footer {
@@ -118,6 +93,15 @@ footer {
   margin-top: 1rem;
 }
 
-.recipeboxtext {
+/* Styling for recipe cards */
+.card:hover {
+  box-shadow: 0 15px 18px 0 rgba(0, 0, 0, .15);
+}
+
+.card a {
+  color: #363636;
+}
+
+.card-content {
   text-align: center;
 }

@@ -8,9 +8,9 @@
     {{ .Content }}
 
     <!-- Show gallery of all recipes within a recipe category -->
-    <div class="columns">
+    <div class="columns is-multiline">
         {{ range $page := .Pages }}
-            {{ partial "recipe-box.html" $page }}
+            {{ partial "recipe-card.html" $page }}
         {{ end }}
     </div>
 

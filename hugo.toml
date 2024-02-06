@@ -2,3 +2,5 @@ baseURL = 'https://kirsten-bulsink.github.io/kirstens-kook-creaties/'
 languageCode = 'nl-NL'
 title = 'Kirstens Kook Creaties'
 theme = 'cookbook'
+
+pluralizeListTitles = false

@@ -1,18 +1,25 @@
 {{ define "main" }}
 
 <div class="content">
-
     <h1>{{ .Title }}</h1>
-    
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format ":date_long" }}
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    
-    <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="500">
-    
-    {{ .Content }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-    
 </div>
+
+<div class="block">
+    {{ range .Params.Tags }}
+    <p class="tag is-primary is-light">{{ . }}</p>
+    {{ end }}
+</div>
+
+<img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="500">
+
+<div class="content">
+    {{ .Content }}
+</div>
+
+<!-- {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }} -->
+    
 
 {{ end }}

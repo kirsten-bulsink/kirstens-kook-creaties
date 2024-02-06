@@ -1,6 +1,6 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
-draft: true
-featured_image:
+tags: ["vega"]
+featured_image: "/plate.jpeg"
 ---
