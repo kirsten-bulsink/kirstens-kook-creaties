@@ -109,10 +109,15 @@ header {
 
 main {
   margin: 1rem;
+  min-height: fit-content;
   /* display: flex; */
 }
 
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
+}
+
+.recipeboxtext {
+  text-align: center;
 }

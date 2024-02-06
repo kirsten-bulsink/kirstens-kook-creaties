@@ -7,13 +7,17 @@
     {{ .Content }}
   </div>
 
-  <!-- This is a list with links to newest recipe content -->
+  <!-- This is a gallery with links to newest recipe content -->
   <div class="content">
     <h1>Nieuwste recepten</h1>
-    {{ range where .Site.RegularPages "Type" "soepen" }}
-    <a href="{{ .Permalink }}">{{ .Title}}</a>
-    {{ .Params.date.Format "Mon Jan 2, 2006"}} <br>
-    {{ end }}
+
+    <div class="columns">
+      <!-- TODO: Change this to tag = nieuw -->
+      {{ range $page := where .Site.RegularPages "Type" "soepen" }} 
+        {{ partial "recipe-box.html" $page }}
+      {{ end }}
+    </div>
+    
   </div>
 
 </div>

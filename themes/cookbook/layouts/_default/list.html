@@ -4,29 +4,17 @@
 
     <h1>{{ .Title }}</h1>
 
+    <!-- Here i could refer to a recipe category (e.g. soepen) specific md file ...-->
     {{ .Content }}
 
-    {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="200">
-    {{ .Summary }}
-    {{ end }}
+    <!-- Show gallery of all recipes within a recipe category -->
+    <div class="columns">
+        {{ range $page := .Pages }}
+            {{ partial "recipe-box.html" $page }}
+        {{ end }}
+    </div>
 
 </div>
 
-{{ end }}
 
-{{/* other example */}}
-{{/* <div class="container">
-    <div class="section">
-        <div class="content">
-            <h1 class="title">{{ .Title }}</h1>
-            {{ .Content }}
-            {{ range .Pages }}
-            <ul>
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            </ul>
-            {{ end }}
-        </div>
-    </div>
-</div> */}}
+{{ end }}

@@ -1,0 +1,11 @@
+<div class="column is-one-third">
+    <a class="box" href="{{ .Permalink }}">
+        <figure>
+            <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}">
+        </figure>
+        <div class = "recipeboxtext">
+            {{ .LinkTitle }}
+            {{ .Params.date.Format "Mon Jan 2, 2006"}} 
+        </div>
+    </a>
+</div>
