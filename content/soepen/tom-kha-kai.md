@@ -1,5 +1,5 @@
 ---
-title: 'Tom kha kai'
+title: 'Tom Kha Kai'
 date: 2023-12-28T14:33:23+01:00
 tags: ["vega"]
 featured_image: "/IMG_2183.jpeg"

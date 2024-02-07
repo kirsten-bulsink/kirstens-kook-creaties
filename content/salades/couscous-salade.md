@@ -1,5 +1,5 @@
 ---
-title: 'Couscous salade'
+title: 'Couscous Salade'
 date: 2024-02-06T10:20:14+01:00
 tags: ["vega"]
 featured_image: "/plate.jpg"

@@ -1,7 +1,7 @@
 ---
 title: 'Granola'
 date: 2024-02-06T10:11:47+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "/IMG_7177.jpeg"
 ---
 

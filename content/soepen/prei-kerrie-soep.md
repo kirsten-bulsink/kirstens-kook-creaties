@@ -1,9 +1,11 @@
 ---
-title: 'Prei-Kerrie soep'
+title: 'Prei Kerrie Soep'
 date: 2024-02-06T10:18:28+01:00
 tags: ["nieuw", "vega"]
 featured_image: "/plate.jpg"
 ---
+
+*Gebaseerd op het verspakket van de AH*
 
 **Ingrediënten**
 

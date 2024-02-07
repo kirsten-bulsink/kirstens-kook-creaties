@@ -1,5 +1,5 @@
 ---
-title: 'Pita met vegetarische gyros'
+title: 'Pita met Vega Gyros'
 date: 2024-02-06T10:43:43+01:00
 tags: ["vega"]
 featured_image: "/plate.jpg"
