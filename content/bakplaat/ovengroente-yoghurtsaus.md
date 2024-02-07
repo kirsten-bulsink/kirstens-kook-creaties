@@ -16,7 +16,7 @@ featured_image: "/plate.jpg"
 - Vadouvan kruiden
 - Zonnebloempitten
 - Notenballetjes
-- [Kruidige yoghurtsaus](#kruidige-yoghurtsaus)
+- [Kruidige yoghurtsaus]({{< relref "/sauzen/kruidige-yoghurtsaus.md" >}} "Link naar kruidige yoghurtsaus recept")
 
 Winterse variatie: met pompoen en kastanjechampignons. 
 

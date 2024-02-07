@@ -12,7 +12,7 @@ featured_image: "/plate.jpg"
 - Paprika
 - Prei
 - Tauge
-- Woksaus kant en klaar (ketjap-sesam van go tan) of zie hier [recept voor woksaus](#woksaus)
+- Woksaus kant en klaar (ketjap-sesam van go tan) of [maak je eigen woksaus]({{< relref "/sauzen/woksaus.md" >}} "Link naar woksaus recept")
 - Vegetarische kipstukjes
 - Sojasaus
 - Sesamzaadjes en/of seroendeng

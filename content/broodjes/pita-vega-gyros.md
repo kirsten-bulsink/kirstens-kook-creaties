@@ -14,7 +14,7 @@ featured_image: "/plate.jpg"
 - 1 Puntpaprika
 - 150 gr feta
 - Half potje zwarte olijven
-- Knoflooksaus of [tzatziki](#tzatziki)
+- Knoflooksaus of [tzatziki]({{< relref "/sauzen/tzatziki.md" >}} "Link naar tzatziki recept")
 
 Variatie: met falafel en avocado
 
