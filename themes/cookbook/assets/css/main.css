@@ -93,6 +93,18 @@ footer {
   margin-top: 1rem;
 }
 
+.navbar.is-light {
+  background-color: #2c8f80;
+}
+
+.navbar.is-light .navbar-brand>a.navbar-item:hover {
+  background-color: #5ccdbc;
+}
+
+.navbar.is-light .navbar-end>a.navbar-item:hover {
+  background-color: #5ccdbc;
+}
+
 /* Styling for recipe cards */
 .card:hover {
   box-shadow: 0 15px 18px 0 rgba(0, 0, 0, .15);

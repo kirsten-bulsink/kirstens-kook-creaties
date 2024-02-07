@@ -2,7 +2,7 @@
 title: 'Buddha Bowl Bulgur Halloumi'
 date: 2024-02-07T11:14:06+01:00
 tags: ["vega"]
-featured_image: "/IMG_halloumi_bowl.jpg"
+featured_image: "/buddha-bowl-format.jpg"
 ---
 
 **Ingrediënten**

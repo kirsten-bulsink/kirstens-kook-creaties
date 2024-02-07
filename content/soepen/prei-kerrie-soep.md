@@ -2,7 +2,7 @@
 title: 'Prei Kerrie Soep'
 date: 2024-02-06T10:18:28+01:00
 tags: ["nieuw", "vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_9646.jpeg"
 ---
 
 **Ingrediënten**
