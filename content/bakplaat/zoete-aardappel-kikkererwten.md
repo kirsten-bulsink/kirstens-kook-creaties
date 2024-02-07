@@ -30,4 +30,4 @@ featured_image: "/IMG_zoeteaardappel_bowl.jpg"
 4. Bak de spinazie totdat hij slinkt. Roer door de bulgur met olijfolie, zout en peper.
 5. Maak de yoghurtsaus. Snij de munt en de knoflook fijn en meng met de griekse yoghurt, citroensap, zout en peper.
 
-[Gebaseerd op deze link](https://www.ah.nl/allerhande/recept/R-R1193431/kikkererwtenbowl-met-zoete-aardappel-quinoa-en-spinazie)
+Gebaseerd op [dit](https://www.ah.nl/allerhande/recept/R-R1193431/kikkererwtenbowl-met-zoete-aardappel-quinoa-en-spinazie) Allerhande recept.

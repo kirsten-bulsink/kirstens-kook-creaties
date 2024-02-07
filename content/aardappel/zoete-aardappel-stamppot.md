@@ -27,4 +27,4 @@ featured_image: "/plate.jpg"
 4. Schep de groente door de aardappels.
 5. Verdeel over de borden en garneer met geitenkaas en walnoten.
 
-[Gebaseerd op deze link](https://www.ah.nl/allerhande/recept/R-R1191246/zoete-aardappelstamppot-met-prei-geitenkaas-en-walnoten)
+Gebaseerd op [dit](https://www.ah.nl/allerhande/recept/R-R1191246/zoete-aardappelstamppot-met-prei-geitenkaas-en-walnoten) Allerhande recept.

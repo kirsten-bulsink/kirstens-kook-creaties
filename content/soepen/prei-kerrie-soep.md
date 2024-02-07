@@ -5,8 +5,6 @@ tags: ["nieuw", "vega"]
 featured_image: "/plate.jpg"
 ---
 
-*Gebaseerd op het verspakket van de AH*
-
 **Ingrediënten**
 
 *Voor 3/4 personen*
@@ -33,3 +31,5 @@ featured_image: "/plate.jpg"
 5. Snijd de appel in partjes.
 6. Pureer met een staafmixer.
 7. Verdeel over kommen en garneer met preiringen en appel.
+
+Gebaseerd op [dit](https://www.ah.nl/allerhande/recept/R-R1199352/ah-excellent-verspakket-prei-kerrie-soep) AH verspakket recept.
