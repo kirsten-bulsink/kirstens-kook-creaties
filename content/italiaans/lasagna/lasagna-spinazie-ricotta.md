@@ -5,4 +5,5 @@ tags: ["vega"]
 featured_image: "/IMG_0536.jpeg"
 ---
 
-<img src="images/IMG_9283.jpeg" width="800"> 
+
+![lasagna bouwen](/kirstens-kook-creaties/IMG_9283.jpeg)
