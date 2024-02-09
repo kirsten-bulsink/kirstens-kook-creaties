@@ -132,6 +132,11 @@ footer {
   text-align: center;
 }
 
+/* Space between tags */
+.tag {
+  margin-right: 0.5rem
+}
+
 /* Size of extra images */
 img[alt="granola op bakplaat"] {
   width: 500px;
@@ -141,11 +146,34 @@ img[alt="halloumi in grillpan"] {
   width: 500px;
 }
 
+img[alt="orzo met feta"] {
+  width: 500px;
+}
+
 img[alt="lasagna bouwen"] {
   width: 500px;
 }
 
-/* Space between tags */
-.tag {
-  margin-right: 0.5rem
+img[alt="pompoen wellington in de maak"] {
+  width: 200px;
+}
+
+img[alt="pompoen wellington afgebakken"] {
+  width: 200px;
+}
+
+img[alt="pompoen wellington doorgesneden"] {
+  width: 200px;
+}
+
+img[alt="courgette roosjes"] {
+  width: 200px;
+}
+
+img[alt="risotto met zalm"] {
+  width: 200px;
+}
+
+img[alt="aubergines van ottolenghi"] {
+  width: 200px;
 }
