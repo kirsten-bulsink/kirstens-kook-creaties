@@ -101,7 +101,7 @@ footer {
 
 .navbar.is-light .navbar-brand>.navbar-item {
   color: white;
-  /* font-family: 'Playpen Sans', cursive; */
+  /* font-family: 'Kirsten', cursive; */
   font-size: larger;
 }
 
@@ -143,4 +143,9 @@ img[alt="halloumi in grillpan"] {
 
 img[alt="lasagna bouwen"] {
   width: 500px;
+}
+
+/* Space between tags */
+.tag {
+  margin-right: 0.5rem
 }
