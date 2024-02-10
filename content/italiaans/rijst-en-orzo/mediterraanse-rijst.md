@@ -27,4 +27,4 @@ featured_image: "/plate.jpg"
 
 *Variatie*: je kan dit gerecht ook maken met orzo en zwarte olijven:
 
-![orzo met feta](/kirstens-kook-creaties//IMG_3746.jpeg)
+![orzo met feta](/IMG_3746.jpeg)

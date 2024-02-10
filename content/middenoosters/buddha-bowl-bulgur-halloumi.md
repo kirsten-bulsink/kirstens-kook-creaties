@@ -30,4 +30,4 @@ featured_image: "/buddha-bowl-format.jpg"
 5. Snij de halloumi in plakken en bak goudbruin in een grillpan.
 6. Plaats alles mooi op het bord samen met een grote lepel hummus. Besprenkel de rauwe ingredienten met citroensap en olijfolie. 
 
-![halloumi in grillpan](/kirstens-kook-creaties/IMG_9939.jpeg)
+![halloumi in grillpan](/IMG_9939.jpeg)

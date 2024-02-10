@@ -1,4 +1,4 @@
-baseURL = 'https://kirsten-bulsink.github.io/kirstens-kook-creaties/'
+baseURL = 'https://kirstenskookcreaties.nl'
 languageCode = 'nl-NL'
 title = 'Kirstens Kook Creaties'
 theme = 'cookbook'

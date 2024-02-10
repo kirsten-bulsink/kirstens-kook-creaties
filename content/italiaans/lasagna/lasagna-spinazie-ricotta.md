@@ -42,7 +42,7 @@ featured_image: "/IMG_0536.jpeg"
 7. Maak een laag in de ovenschaal van eerst tomatensaus, dan de lasagnabladen en dan een laagje spinazie-ricotta. Maak nog een zelfde laag. Beleg dan de bovenkant met afwisselend mozzarella-tomaat plakken en strooi daar de overige parmezaanse kaas overheen.
 8. Bak de lasagna in de oven voor 40 minuten. Serveer met een blaadje verse basilicum.
 
-![lasagna bouwen](/kirstens-kook-creaties/IMG_9283.jpeg)
+![lasagna bouwen](/IMG_9283.jpeg)
 
 Gebaseerd op [dit](https://www.smakelijck.nl/recepten/hoofdgerecht/lasagne-met-spinazie-en-ricotta-/) recept.
 

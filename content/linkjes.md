@@ -13,7 +13,7 @@ featured_image: "IMG_risotto.jpg"
 - [Risotto met zalm van Bertolli](https://www.bertolli.nl/nl/bertolli-recepten/risotto-met-zalm-kerstomaatjes-en-pesto-verde/)
 
 Risotto met zalm van Bertolli
-![risotto met zalm](/kirstens-kook-creaties/IMG_risotto.jpg)
+![risotto met zalm](/IMG_risotto.jpg)
 
 **Uit de oven**
 - [Plaattaart biet zoete aardappel](https://www.ah.nl/allerhande/recept/R-R1192268/plaattaart-van-zoete-aardappel-rode-biet-en-feta)
@@ -22,16 +22,16 @@ Risotto met zalm van Bertolli
 - [Pompoen Wellington](https://www.lazycatkitchen.com/vegan-squash-wellington/)
 
 De pompoenwellington  
-![pompoen wellington in de maak](/kirstens-kook-creaties/IMG_0698.jpeg)
-![pompoen wellington afgebakken](/kirstens-kook-creaties/IMG_0701.jpeg)
-![pompoen wellington doorgesneden](/kirstens-kook-creaties/IMG_0704.jpeg)
+![pompoen wellington in de maak](/IMG_0698.jpeg)
+![pompoen wellington afgebakken](/IMG_0701.jpeg)
+![pompoen wellington doorgesneden](/IMG_0704.jpeg)
 
 **Voor- of bijgerechten**
 - [Vijgencarpaccio](https://www.dehippevegetarier.nl/vegetarische-recepten/vijgencarpaccio/)
 - [Linzenballetjes met mangochutney](https://www.boodschappen.nl/recept/linzenballetjes-met-mangochutney/)
 - [Aubergines van Ottolenghi](https://www.culy.nl/recepten/geroosterde-aubergines-met-yoghurt/)
 
-![aubergines van ottolenghi](/kirstens-kook-creaties/IMG_2392.jpeg)
+![aubergines van ottolenghi](/IMG_2392.jpeg)
 
 **Snacks**
 - [Courgette roosjes](https://www.leukerecepten.nl/recepten/hartige-courgette-roosjes/)
@@ -39,7 +39,7 @@ De pompoenwellington
 - [Bladerdeeghapjes met tonijn](https://www.lekkerensimpel.com/tonijn-bladerdeegpakketjes/)
 
 Courgette roosjes  
-![courgette roosjes](/kirstens-kook-creaties/IMG_courgette_roosjes.jpg)
+![courgette roosjes](/IMG_courgette_roosjes.jpg)
 
 **Bakken**
 - [Bramen appel crumble](https://www.littlespoon.nl/2015/11/crumble-met-bramen-en-appel/)

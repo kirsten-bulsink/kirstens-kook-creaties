@@ -34,4 +34,4 @@ featured_image: "/IMG_7177.jpeg"
 7. Haal uit de oven en strooi de kokossnippers er overheen. 
 8. Laat afkoelen voordat je het in een weckpot stopt.
 
-![granola op bakplaat](/kirstens-kook-creaties/IMG_9601.jpeg)
+![granola op bakplaat](/IMG_9601.jpeg)
