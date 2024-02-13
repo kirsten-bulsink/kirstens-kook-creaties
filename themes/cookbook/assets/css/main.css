@@ -154,6 +154,11 @@ img[alt="lasagna bouwen"] {
   width: 500px;
 }
 
+img[alt="frittata op brood"] {
+  width: 500px;
+}
+
+/* Small images with the links page */
 img[alt="pompoen wellington in de maak"] {
   width: 200px;
 }

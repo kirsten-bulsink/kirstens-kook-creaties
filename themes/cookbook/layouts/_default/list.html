@@ -9,7 +9,7 @@
 
     <!-- Show gallery of all recipes within a recipe category -->
     <div class="columns is-multiline">
-        {{ range $page := .Pages }}
+        {{ range $page := .Pages.ByTitle }}
             {{ partial "recipe-card.html" $page }}
         {{ end }}
     </div>
