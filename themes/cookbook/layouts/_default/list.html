@@ -7,7 +7,7 @@
     <!-- Here i could refer to a recipe category (e.g. soepen) specific md file ...-->
     {{ .Content }}
 
-    <!-- Show gallery of all recipes within a recipe category -->
+    <!-- Show gallery of all recipes within a recipe category sorted by title -->
     <div class="columns is-multiline">
         {{ range $page := .Pages.ByTitle }}
             {{ partial "recipe-card.html" $page }}

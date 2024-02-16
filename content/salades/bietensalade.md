@@ -1,16 +1,17 @@
 ---
 title: 'Bietensalade'
 date: 2024-02-07T10:12:39+01:00
-tags: ["vega"]
-featured_image: "/plate.jpg"
+tags: ["nieuw", "vega"]
+featured_image: "/IMG_0778.jpeg"
 ---
 
 **Ingrediënten**
 - Verse spinazie (rauw) of rucola melange
-- Bieten (voorgekookt)
-- Rode ui 
-- Feta 
-- Walnoten 
+- 3 bieten (voorgekookt)
+- Halve rode ui 
+- Halve komkommer
+- 100 gram feta 
+- Handje walnoten 
 - Olijfolie
 - Balsamico azijn
 - Honing
@@ -18,7 +19,6 @@ featured_image: "/plate.jpg"
 Variatie: maak er bulgur of quinoa bij voor een maaltijdversie.
 
 **Recept**
-1. Snij de bieten in plakjes en de rode ui in ringen.
-2. Fruit de rode ui in een pan tot hij karameliseert.
-3. Maak de dressing van olijfolie, balsamico, honing, zout en peper.
-4. Maak de borden op met eerst spinazie, dan de bietenringen en dan alle andere ingrediënten en sprenkel de dressing er over.
+1. Snij de bieten, komkommer en rode ui. Eventueel: fruit de rode ui in een pan tot hij karameliseert.
+2. Maak de dressing van olijfolie, balsamico, honing, zout en peper.
+3. Maak de borden op met alle groente, verkruimel de walnoten en feta en sprenkel dan de dressing er over.

@@ -12,7 +12,7 @@ featured_image: "/plate.jpg"
 - Rode chilipeper
 - Knoflook
 - Gember
-- 2 grote lepels massaman curry van koh thai
+- 2 grote lepels massaman curry van Koh Thai
 - Kokosmelk
 - Limoen
 - Yoghurt

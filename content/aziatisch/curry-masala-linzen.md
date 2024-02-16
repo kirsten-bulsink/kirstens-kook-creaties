@@ -1,32 +1,33 @@
 ---
-title: 'Curry Masala met Linzen'
+title: 'Linzencurry met Spinazie'
 date: 2024-02-07T11:24:56+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_0786.jpeg"
 ---
 
 **Ingrediënten**
-- Aubergine
-- Paprika
-- Spinazie
-- Rode chilipeper
-- Knoflook
-- Gember
-- Garam masala kruiden
-- Rode currypasta
+
+Voor 4 personen
+- 2 paprika's
+- 1 aubergine
+- 400 gram spinazie
+- 2 tenen knoflook
+- Stuk gember
+- 1 eetlepel garam masala kruiden
+- 2 a 3 eeetlepels rode currypasta
 - 1 blik tomatenblokjes
-- Linzen
-- Kokosmelk
-- Limoen
+- 400 gram linzen (uit blik)
+- 400 ml kokosmelk
+- 1 limoen
 - Yoghurt
 - Koriander
 - Rijst
-- Naanbrood
+- Eventueel: naanbrood
 
 **Recept**
 1. Snij alle groente en kruiden.
-2. Fruit als eerst de rode peper, knoflook en gember in de pan. Fruit dan ook de garam masala kruiden en de curry pasta mee.
+2. Fruit als eerst de knoflook en gember in de pan. Fruit dan ook de garam masala kruiden en de curry pasta mee.
 3. Voeg de aubergine toe. Als deze gaar is, voeg ook de paprika toe. Voeg als laatst de tomatenblokjes en de kokosmelk toe. Laat op laag vuur garen.
-4. Kook ondertussen ook de rijst en bak de naan in de oven.
-5. Voeg ook de linzen en de spinazie toe aan de curry. Als de spinazie is geslonken, breng op smaak met limoensap.
+4. Kook ondertussen ook de rijst.
+5. Voeg de spinazie in delen toe aan de curry. Voeg ook de linzen toe. Als de spinazie is geslonken, breng op smaak met limoensap en zout naar smaak.
 6. Serveer de curry met yoghurt en koriander.
