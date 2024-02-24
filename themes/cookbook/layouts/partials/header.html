@@ -1,15 +1,40 @@
 
-<nav class="navbar is-light" role="navigation" aria-label="main navigation">
+<nav id="my-navbar" class="navbar is-primary" role="navigation" aria-label="main navigation">
 
     <!-- Part that is always visible -->
     <div class="navbar-brand">
         <a class="navbar-item" href="{{ relURL "" }}">
             {{ site.Title }}
         </a>
+
+        <!-- Burger for touch devices-->
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="my-menu">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
     </div>
 
-    <!-- Part only visible on desktop -->
-    <div class="navbar-menu">
+    <!-- This part is shown within the navbar on desktop and shown within burger for touch devices -->
+    <div id="my-menu" class="navbar-menu">
+
+        <div class="navbar-start is-hidden-desktop">
+            <a class="navbar-item" href="{{ relURL "ontbijt" }}">Ontbijt</a>
+            <a class="navbar-item" href="{{ relURL "soepen" }}">Soepen</a>
+            <a class="navbar-item" href="{{ relURL "salades" }}">Salades</a>
+            <a class="navbar-item" href="{{ relURL "broodjes" }}">Broodjes en pita's</a>
+            <a class="navbar-item" href="{{ relURL "wraps" }}">Wraps</a>
+            <a class="navbar-item" href="{{ relURL "aardappel" }}">Aardappelgerechten</a>
+            <a class="navbar-item" href="{{ relURL "quiche" }}">Quiche en pizza</a>
+            <a class="navbar-item" href="{{ relURL "bakplaat" }}">Bakplaatrecepten</a>
+            <a class="navbar-item" href="{{ relURL "middenoosters" }}">Midden-oosters</a>
+            <a class="navbar-item" href="{{ relURL "aziatisch" }}">Aziatisch</a>
+            <a class="navbar-item" href="{{ relURL "italiaans" }} ">Italiaans</a>
+            <a class="navbar-item" href="{{ relURL "snacks" }}">Snacks</a>
+            <a class="navbar-item" href="{{ relURL "sauzen" }}">Sauzen en smeersels</a>
+            <a class="navbar-item" href="{{ relURL "bakken" }}">Bakken</a>
+            <a class="navbar-item" href="{{ relURL "linkjes" }}">Linkjes</a>
+        </div>
         <div class="navbar-end">
             <a class="navbar-item" href="https://github.com/kirsten-bulsink/kirstens-kook-creaties" target="_blank">
                 Github

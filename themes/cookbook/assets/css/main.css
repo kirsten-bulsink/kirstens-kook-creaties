@@ -95,28 +95,16 @@ footer {
 }
 
 /* Styling for navbar */
-.navbar.is-light {
+#my-navbar {
   background-color: #2c8f80;
 }
 
-.navbar.is-light .navbar-brand>.navbar-item {
-  color: white;
-  /* font-family: 'Kirsten', cursive; */
+#my-navbar .navbar-item:hover {
+  background-color: rgba(0, 0, 0, .05);
+}
+
+#my-navbar .navbar-brand .navbar-item {
   font-size: larger;
-}
-
-.navbar.is-light .navbar-end>.navbar-item {
-  color: white;
-}
-
-.navbar.is-light .navbar-brand>a.navbar-item:hover {
-  color: white;
-  background-color: #5ccdbc;
-}
-
-.navbar.is-light .navbar-end>a.navbar-item:hover {
-  color: white;
-  background-color: #5ccdbc;
 }
 
 /* Styling for recipe cards */
