@@ -2,7 +2,7 @@
 title: 'Groentestoof met Bulgur'
 date: 2024-02-07T11:16:11+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_0918.jpeg"
 ---
 
 **Ingrediënten**
