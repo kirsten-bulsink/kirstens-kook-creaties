@@ -1,5 +1,14 @@
 {{ define "main" }}
 
+<!-- Breadcrumb navigation -->
+<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+    <ul>
+        <li><a href="{{.Site.BaseURL}}/{{.Section}}"> {{ .Section }}</a></li>
+        <li class="is-active"><a href="#" aria-current="page"> {{ .Title }} </a></li>
+    </ul>
+</nav>
+
+<!-- Title and date -->
 <div class="content">
     <h1>{{ .Title }}</h1>
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
@@ -7,19 +16,41 @@
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 </div>
 
+<!-- Tags -->
 <div class="block">
     {{ range .Params.Tags }}
     <p class="tag is-primary is-light">{{ . }}</p>
     {{ end }}
 </div>
 
+<!-- Picture -->
 <img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="500">
 
+<!-- Content -->
 <div class="content" style="margin-top:1rem; margin-bottom:1rem;">
     {{ .Content }}
 </div>
 
-<!-- {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }} -->
-    
+<!-- Next and previous buttons for navigation -->
+<nav class="pagination is-rounded" role="navigation" aria-label="pagination">
+
+    {{ $pages := where site.RegularPages "Section" .Section }}
+    {{ with $pages.ByTitle.Next . }}
+        <a class="pagination-previous button is-primary is-light" 
+        title="Vorig recept in {{ .Section }}" 
+        href="{{ .Permalink }}">
+        Vorige
+        </a>
+    {{ end }}
+
+    {{ with $pages.ByTitle.Prev . }}
+        <a class="pagination-next button is-primary is-light" 
+        title="Volgende recept in {{ .Section }}" 
+        href="{{ .Permalink }}">
+        Volgende
+        </a>
+    {{ end }}
+
+</nav>
 
 {{ end }}
