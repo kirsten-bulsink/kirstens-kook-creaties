@@ -2,7 +2,7 @@
 title: 'Massaman Curry met Zoete Aardappel'
 date: 2024-02-07T11:23:56+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_0960.jpeg"
 ---
 
 **Ingrediënten**
