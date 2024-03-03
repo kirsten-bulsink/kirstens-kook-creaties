@@ -3,7 +3,7 @@
 <!-- Breadcrumb navigation -->
 <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
     <ul>
-        <li><a href="{{.Site.BaseURL}}/{{.Section}}"> {{ .Section }}</a></li>
+        <li><a href="{{.Site.BaseURL}}/{{.Section}}"> {{ (site.GetPage "section" .Section).Title }} </a></li>
         <li class="is-active"><a href="#" aria-current="page"> {{ .Title }} </a></li>
     </ul>
 </nav>
