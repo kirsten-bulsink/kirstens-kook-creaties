@@ -6,14 +6,16 @@ featured_image: "/IMG_0960.jpeg"
 ---
 
 **Ingrediënten**
-- Zoete aardappel
-- Paprika
-- Sperziebonen
-- Rode chilipeper
-- Knoflook
-- Gember
+
+*Voor 3/4 personen*
+- 2 zoete aardappels
+- 2 paprika's
+- 250 gram sperziebonen
+- 1 rode chilipeper
+- 2 tenen knoflook
+- Stuk gember
 - 2 grote lepels massaman curry van Koh Thai
-- Kokosmelk
+- 400ml kokosmelk
 - Limoen
 - Yoghurt
 - Koriander

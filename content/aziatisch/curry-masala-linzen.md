@@ -7,7 +7,7 @@ featured_image: "/IMG_0787.jpeg"
 
 **Ingrediënten**
 
-Voor 4 personen
+*Voor 3/4 personen*
 - 2 paprika's
 - 1 aubergine
 - 400 gram spinazie
