@@ -7,7 +7,7 @@ featured_image: "/IMG_2342.jpeg"
 
 **Ingrediënten**
 
-*Voor 3/4 personen*
+*Voor 4 personen*
 - 1 Ui
 - 2 tenen knoflook
 - 2 paprika's
@@ -17,7 +17,7 @@ featured_image: "/IMG_2342.jpeg"
 - 1 blik tomatenblokjes
 - Ras el hanout kruiden
 - 1 bouillonblokje
-- 1 ei per persoon
+- 4 eieren
 - Feta
 - Verse peterselie
 - Rijst (zilvervlies)

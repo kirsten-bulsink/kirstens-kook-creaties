@@ -2,14 +2,18 @@
 title: 'Tzatziki'
 date: 2024-02-07T11:50:46+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_1073.jpeg"
 ---
 
 **Ingrediënten**
-- 400(?) ml Griekse yoghurt
-- Halve komkommer
+- 400 ml Griekse yoghurt
+- 2/3e komkommer
 - 1 à 2 teentjes knoflook
 - Sap van een halve citroen
+- Olijfolie
+
+**Benodigdheden**
+- Rasp
 
 **Recept**
 1. Rasp de komkommer en druk er zoveel mogelijk water uit in een zeef. 
