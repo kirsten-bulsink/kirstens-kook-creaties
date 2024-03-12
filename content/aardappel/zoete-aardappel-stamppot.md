@@ -2,17 +2,17 @@
 title: 'Zoete Aardappel Stamppot met Geitenkaas'
 date: 2024-02-07T10:39:34+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_1083.jpeg"
 ---
 
 **Ingrediënten**
 
-*Voor 3 personen* ??
+*Voor 3 personen*
 - 750 gram zoete aardappels
 - 250 gram kruimige aardappels
 - 1 grote of 2 kleine preien
 - 1 grote rode paprika
-- Geitenkaas (grote verpakking)
+- 150 gram geitenkaas
 - Walnoten
 - Vadouvan kruiden
 - Klein klontje boter
