@@ -12,7 +12,7 @@ featured_image: "/IMG_0802.jpeg"
 - 2 tenen knoflook
 - 2 courgettes
 - 1,5 groente bouillonblokje
-- 800 ml water
+- 750 ml water
 - 15 gram verse bieslook
 - 2 a 3 eetlepels philadelphia bieslook
 
