@@ -2,7 +2,7 @@
 title: 'Pasta Pesto met Broccoli'
 date: 2024-02-07T11:35:19+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "/IMG_1295.jpeg"
 ---
 
 **Ingrediënten**
