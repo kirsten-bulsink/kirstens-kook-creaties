@@ -1,7 +1,7 @@
 ---
 title: Smoothiebowl
 date: 2023-12-28T14:12:32+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "/IMG_7508.jpeg"
 ---
 

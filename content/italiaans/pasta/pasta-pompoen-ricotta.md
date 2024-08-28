@@ -1,7 +1,7 @@
 ---
 title: 'Pasta Pompoen Ricotta'
 date: 2024-02-07T11:46:57+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "/plate.jpg"
 ---
 

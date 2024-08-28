@@ -1,7 +1,7 @@
 ---
 title: 'Prei Kerrie Soep'
 date: 2024-02-06T10:18:28+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "/IMG_1019.jpeg"
 ---
 

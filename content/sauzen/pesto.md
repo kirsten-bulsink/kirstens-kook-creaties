@@ -1,21 +1,26 @@
 ---
 title: 'Pesto'
-date: 2024-02-07T11:51:03+01:00
-tags: ["vega"]
-featured_image: "/plate.jpg"
+date: 2024-08-28T12:13:16+01:00
+tags: ["nieuw", "vega"]
+featured_image: "/IMG_2489.jpeg"
 ---
 
 **Ingrediënten**
-*Nog een keer naar hoeveelheden kijken...*
-- 30 gram basilicum
-- 2 eetlepels pijnboompitten
-- 30 gram parmezaanse kaas (parmigiano reggiano)
-- 75-100 ml(?) extra vierge olijfolie
-- Halve teen knoflook
+- 30 gram basilicum (blaadjes van 1 plantje)
+- 20 gram rucola
+- 50 gram zonnebloempitten
+- 50 gram parmezaanse kaas (parmigiano reggiano)
+- 100-120 ml extra vierge olijfolie
+- 1 teen knoflook
 
 **Benodigdheden**
 - Hakmolen of blender
 
 **Recept**
-1. Rooster de pijnboompitten en rasp de parmezaanse kaas. Snij de knoflookteen fijn.
-2. Meng alles in de hakmolen.
+1. Rooster de zonnebloemmpitten en rasp de parmezaanse kaas. 
+2. Pluk de basilicum en snij de knoflookteen fijn.
+3. Meng eerst alle ingrediënten, behalve de olijfolie, in de hakmolen en maal tot een gladde massa. Breng op smaak met zout en peper.
+4. Voeg nu de olijfolie in delen toe en blijf malen tot de gewenste dikte. Zelf vind ik een iets stevigere variant door de pasta lekkerder. Als je het op een broodje wil smeren dan zou ik iets meer olijfolie toevoegen.
+
+**Waar eet je het bij?**
+- Deze zomerse [pasta pesto salade]({{< relref "/salades/pasta-pesto-salade.md" >}} "Link naar pasta pesto salade recept")
