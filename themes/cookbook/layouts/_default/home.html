@@ -19,6 +19,18 @@
 
   </div>
 
+    <!-- This is a gallery with links to favorite recipe content -->
+    <div class="content">
+      <h1>Kirstens favorieten</h1>
+  
+      <div class="columns is-multiline">
+        {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "favoriet")}} 
+          {{ partial "recipe-card.html" $page }}
+        {{ end }}
+      </div>
+  
+    </div>
+
 </div>
 
 {{ end }}

@@ -1,7 +1,7 @@
 ---
-title: 'Zoete Aardappel Kikkererwten Bowl'
+title: 'Zoete Aardappel Spinazie Bowl'
 date: 2024-02-07T11:04:53+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "/IMG_zoeteaardappel_bowl.jpg"
 ---
 

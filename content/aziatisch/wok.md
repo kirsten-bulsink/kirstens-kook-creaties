@@ -12,13 +12,14 @@ featured_image: "/IMG_0811.jpeg"
 - Paprika
 - Prei
 - Tauge
+- Bosui
 - Woksaus (ketjap-sesam van go tan) of [maak je eigen woksaus]({{< relref "/sauzen/woksaus.md" >}} "Link naar woksaus recept")
 - Vegetarische kipstukjes
 - Sojasaus
 - Sesamzaadjes en/of seroendeng
-- Eventueel: bosui en/of koriander
+- Eventueel: koriander
 
-Variatie groente: broccoli, champignon, paksoi, sperzies, ananas
+Groente variaties: broccoli, champignon, paksoi, sperzies, ananas
 
 **Recept**
 1. Snij alle groente en kruiden.

@@ -1,7 +1,7 @@
 ---
 title: 'Pasta Gerookte Zalm'
 date: 2024-02-07T11:34:19+01:00
-tags: ["vis"]
+tags: ["vis", "favoriet"]
 featured_image: "/IMG_0947.jpeg"
 ---
 
