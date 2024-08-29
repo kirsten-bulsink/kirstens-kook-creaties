@@ -1,1 +1,2 @@
-Welkom op Kirstens Kook Creaties! 
+Deze recepten begonnen ooit als een groot Word-document dat ik vaak doorbladerde op zoek naar kookinspiratie. Tijdens een remote werkvakantie in Italië in februari 2024 besloot ik om een website te maken. Het leek me leuk om zelf een website te bouwen, en daarmee kon ik mijn verzameling recepten direct overzichtelijk maken en delen met vrienden. Voor de tech-liefhebbers: de code is openbaar beschikbaar via de GitHub-knop!
+

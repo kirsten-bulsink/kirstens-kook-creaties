@@ -30,3 +30,5 @@ Variatie: met verse ravioli of andere gevulde pasta is ook erg lekker!
 5. Bak nu ook de kipstukjes in een aparte pan (of hergebruik de pittenpan).
 6. Voeg de pesto en kookzuivel toe aan de groenten en breng op smaak met zout, peper en italiaanse kruiden.
 7. Roer de pasta door de saus. Serveer de pasta met krokante kipstukjes, mozzarella, pitjes en rucola.
+
+![pasta broccoli in de pan](/IMG_1286.jpeg)

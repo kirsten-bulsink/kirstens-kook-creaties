@@ -1,7 +1,7 @@
 ---
 title: 'Lasagna Spinazie Ricotta'
 date: 2024-02-07T11:43:42+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "/IMG_0536.jpeg"
 ---
 
