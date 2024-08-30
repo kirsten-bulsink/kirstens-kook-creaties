@@ -120,20 +120,6 @@ main {
   margin-right: 0.5rem
 }
 
-/* Two column layout home page, about kirstenskookcreaties */
-.row {
-  display: flex;
-}
-
-.left {
-  flex: 25;
-}
-
-.right {
-  flex: 75;
-  padding-left: 20px;
-}
-
 /* Size of extra images */
 img[alt="granola op bakplaat"] {
   width: 500px;
