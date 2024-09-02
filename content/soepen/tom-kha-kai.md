@@ -2,7 +2,7 @@
 title: 'Tom Kha'
 date: 2023-12-28T14:33:23+01:00
 tags: ["vega", "favoriet"]
-featured_image: "/IMG_2183.jpeg"
+featured_image: "/IMG_2536.jpeg"
 ---
 
 **Ingrediënten**
@@ -11,8 +11,8 @@ featured_image: "/IMG_2183.jpeg"
 - Flink stuk gember
 - 1 rode peper
 - 2 tenen knoflook
-- 600 gram wokgroente uit een zak of snij bijv. paprika, prei, kool, tauge klein
-- 400ml kokosmelk 
+- 600 gram wokgroente (uit een zak of snij zelf paprika, prei, kool, tauge)
+- 400 ml kokosmelk 
 - 1,5 blokje groentebouillon
 - 850 ml water 
 - 2 nestjes (rijst)noedels (bijv. van fairtrade)
