@@ -6,14 +6,18 @@ featured_image: "/plate.jpg"
 ---
 
 **Ingrediënten**
-- Bulgur 
-- Bouillonblokje
+
+*De bakplaat*  
 - Pompoen
 - Bietjes
 - Rode ui
-- Halloumi of feta
+- Halloumi
 - Olijfolie
 - Vadouvan kruiden
+
+*Er bij*
+- Bulgur 
+- Half bouillonblokje
 
 **Benodigdheden**
 - Oven
@@ -21,5 +25,9 @@ featured_image: "/plate.jpg"
 
 **Recept**
 1. Verwarm de oven voor op 200 graden.
-2. Snij alle groente en verdeel over een bakplaat. Breng op smaak met olijfolie, vadouvan kruiden, zout en peper. Snij de halloumi in blokjes en verdeel over de groente. Bak in ~30 minuten goudbruin.
-3. Maak de bulgur zoals aangegeven op de verpakking samen met een bouillonblokje.
+2. Snij alle groente in blokjes en verdeel over een bakplaat. 
+3. Breng op smaak met olijfolie, vadouvan kruiden, zout en peper. 
+4. Snij de halloumi in blokjes en verdeel over de groente. 
+5. Zet de bakplaat in de oven en bak in ~30 minuten goudbruin.
+6. Kook ondertussen de bulgur zoals aangegeven op de verpakking samen met het halve bouillonblokje.
+7. Serveer de ovengroente met de bulgur. 

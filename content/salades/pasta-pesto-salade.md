@@ -17,7 +17,7 @@ featured_image: "/IMG_2510.jpeg"
 - 200 gram mozzarella 
 - Flinke hand zonnebloempitjes
 - 200 gram [pesto]({{< relref "/sauzen/pesto.md" >}})
-- 170 gram griekse yoghurt (Dodoni 5%)
+- 170 gram griekse yoghurt (klein bakje Dodoni 5%)
 - 1 citroen
 
 **Recept**

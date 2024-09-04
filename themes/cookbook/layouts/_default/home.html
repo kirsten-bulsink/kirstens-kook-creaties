@@ -4,22 +4,26 @@
 
   <!-- Suprise me button with JS to shuffle on each reload-->
   <div class="content">
-      <script>
-        window.onload = function(){
-          let allPermalinks = [
-            {{range .Site.RegularPages }}
-              "{{.Permalink }}",
-            {{ end }}
-          ];
-          let lengthPermalinks = allPermalinks.length;
-          let randomNumber = Math.floor(Math.random() * lengthPermalinks);
-          let link = allPermalinks[randomNumber];
-          document.getElementById('surprise').href = link;
-        };
-      </script>
-      <a id="surprise" href="">
-        <button class="button is-medium is-primary is-light">Verras me!</button>
-      </a>
+    <script>
+      window.onload = function(){
+        let allPermalinks = [
+          {{range .Site.RegularPages }}
+            "{{.Permalink }}",
+          {{ end }}
+        ];
+        let lengthPermalinks = allPermalinks.length;
+        let randomNumber = Math.floor(Math.random() * lengthPermalinks);
+        let link = allPermalinks[randomNumber];
+        document.getElementById('surprise').href = link;
+      };
+    </script>
+    <div class="container">
+      <div class="content">
+        <a class="button is-medium is-primary is-light" id="surprise" href="">
+          Verras me!
+        </a>
+      </div>
+    </div>
   </div>
 
   <!-- This is a gallery with links to newest recipe content -->

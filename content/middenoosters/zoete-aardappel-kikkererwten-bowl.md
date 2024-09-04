@@ -15,9 +15,9 @@ featured_image: "/IMG_zoeteaardappel_bowl.jpg"
 - Bouillonblokje
 - Spinazie
 - 200ml griekse yoghurt
-- Munt
-- Citroensap
-- Knoflook
+- Flinke hand munt
+- Sap van een halve citroen
+- 1 teentje knoflook
 
 **Benodigdheden**
 - Oven
