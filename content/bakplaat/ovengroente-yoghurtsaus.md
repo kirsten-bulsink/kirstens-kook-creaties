@@ -1,7 +1,7 @@
 ---
 title: 'Ovengroente met Yoghurtsaus'
 date: 2024-02-07T11:06:22+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "/IMG_2552.jpeg"
 ---
 

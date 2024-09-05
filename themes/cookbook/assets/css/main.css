@@ -161,6 +161,18 @@ img[alt="ovengroente, quinoa en falafel"] {
   width: 500px;
 }
 
+img[alt="tonijnmengsel"] {
+  width: 500px;
+}
+
+img[alt="quesedilla in de pan"] {
+  width: 500px;
+}
+
+img[alt="quesedilla zijkant"] {
+  width: 500px;
+}
+
 /* Small images with the links page */
 img[alt="pompoen wellington in de maak"] {
   width: 200px;

@@ -15,3 +15,6 @@ featured_image: "/IMG_2545.jpeg"
 **Recept**
 1. Meng het citroensap met de yoghurt.
 2. Voeg alle kruiden toe en breng op smaak met zout.
+
+**Waar eet je het bij?**
+- [Ovengroente]({{< relref "/bakplaat/ovengroente-yoghurtsaus.md" >}} "Link naar ovengroente met yoghurtsaus recept")
