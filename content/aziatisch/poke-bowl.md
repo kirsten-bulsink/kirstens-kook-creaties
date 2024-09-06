@@ -2,7 +2,7 @@
 title: 'Poke Bowl'
 date: 2024-02-07T11:26:27+01:00
 tags: ["nieuw", "vega"]
-featured_image: "/IMG_0174.jpeg"
+featured_image: "images/IMG_0174.jpeg"
 ---
 
 **Ingrediënten**

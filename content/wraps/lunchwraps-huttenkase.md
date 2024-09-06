@@ -2,7 +2,7 @@
 title: 'Lunchwraps Huttenkäse en Tuinkers'
 date: 2024-02-07T10:36:23+01:00
 tags: ["vega"]
-featured_image: "/IMG_1863.jpeg"
+featured_image: "images/IMG_1863.jpeg"
 ---
 
 **Ingrediënten**

@@ -2,7 +2,7 @@
 title: 'Nachos'
 date: 2024-02-07T11:49:58+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**
@@ -22,5 +22,5 @@ featured_image: "/plate.jpg"
 1. Verwarm de oven voor op 200 graden.
 2. Snij de ui in halve ringen en de jalapeno's in kleine blokjes. Snij de tomaat in kwarten en 'onthol' hem met een lepel door al het vruchtvlees weg te halen. Snij dan in kleine blokjes.
 3. Leg de nacho's in de ovenschaal verdeel daaroverheen de ui, tomaat, jalapeno's en olijven. Bestrooi met geraspte kaas.
-4. Bak voor 20(?) minuten tot de kaas gesmolten en goudbruin is.
-5. Serveer met guacemole.
+4. Bak voor 20 minuten tot de kaas gesmolten en goudbruin is.
+5. Maak ondertussen de [guacemole]({{< relref "/sauzen/guacemole.md" >}} "Link naar guacemole recept").

@@ -2,7 +2,7 @@
 title: 'Quiche Spinazie Geitenkaas'
 date: 2024-02-07T10:47:00+01:00
 tags: ["vega"]
-featured_image: "/IMG_2085.jpeg"
+featured_image: "images/IMG_2085.jpeg"
 ---
 
 **Ingrediënten**
@@ -13,7 +13,7 @@ featured_image: "/IMG_2085.jpeg"
 - 1 ui
 - 2 teentjes knoflook
 - 1 courgette
-- 300 gr (?) spinazie
+- 300 gr spinazie
 - 6 eieren 
 - 200ml crème fraîche of sojaroom (AH) of 200 ml Griekse yoghurt 10% vet
 - Zachte geitenkaas

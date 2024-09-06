@@ -2,7 +2,7 @@
 title: 'Gele Bloemkoolcurry'
 date: 2024-02-07T11:18:22+01:00
 tags: ["vega"]
-featured_image: "/IMG_2670.jpeg"
+featured_image: "images/IMG_2670.jpeg"
 ---
 
 **Ingrediënten**

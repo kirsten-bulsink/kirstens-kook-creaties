@@ -2,7 +2,7 @@
 title: 'Witlofsalade'
 date: 2024-02-07T10:13:34+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**

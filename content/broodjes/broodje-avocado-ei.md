@@ -2,7 +2,7 @@
 title: 'Broodje Avocado Ei'
 date: 2024-02-07T10:23:33+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**

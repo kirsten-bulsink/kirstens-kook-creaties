@@ -2,7 +2,7 @@
 title: 'Zoete Aardappel Stamppot met Geitenkaas'
 date: 2024-02-07T10:39:34+01:00
 tags: ["vega"]
-featured_image: "/IMG_1083.jpeg"
+featured_image: "images/IMG_1083.jpeg"
 ---
 
 **Ingrediënten**

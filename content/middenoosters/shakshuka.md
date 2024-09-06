@@ -2,7 +2,7 @@
 title: 'Shakshuka'
 date: 2024-02-07T11:17:26+01:00
 tags: ["vega", "favoriet"]
-featured_image: "/IMG_2342.jpeg"
+featured_image: "images/IMG_2342.jpeg"
 ---
 
 **Ingrediënten**

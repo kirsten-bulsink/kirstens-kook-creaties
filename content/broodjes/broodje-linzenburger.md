@@ -2,7 +2,7 @@
 title: 'Broodje Linzenburger'
 date: 2024-02-07T10:22:45+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**

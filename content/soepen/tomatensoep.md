@@ -2,7 +2,7 @@
 title: 'Tomatensoep'
 date: 2024-02-06T10:16:56+01:00
 tags: ["vega"]
-featured_image: "/IMG_1146.jpeg"
+featured_image: "images/IMG_1146.jpeg"
 ---
 
 **Ingrediënten**

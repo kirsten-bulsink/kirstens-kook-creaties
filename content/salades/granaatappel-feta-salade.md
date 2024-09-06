@@ -2,7 +2,7 @@
 title: 'Granaatappel Feta Salade'
 date: 2024-02-07T10:06:58+01:00
 tags: ["vega"]
-featured_image: "/IMG_2584.jpeg"
+featured_image: "images/IMG_2584.jpeg"
 ---
 
 **Ingrediënten**

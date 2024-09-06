@@ -2,7 +2,7 @@
 title: 'Wok met krokante vega kip'
 date: 2024-02-07T11:25:27+01:00
 tags: ["vega"]
-featured_image: "/IMG_0811.jpeg"
+featured_image: "images/IMG_0811.jpeg"
 ---
 
 **Ingrediënten**

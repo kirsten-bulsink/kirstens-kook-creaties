@@ -2,7 +2,7 @@
 title: 'Quesedilla Tonijn'
 date: 2024-02-07T10:33:42+01:00
 tags: ["vis"]
-featured_image: "/IMG_2570.jpeg"
+featured_image: "images/IMG_2570.jpeg"
 ---
 
 **Ingrediënten**

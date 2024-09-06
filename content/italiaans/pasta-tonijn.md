@@ -2,7 +2,7 @@
 title: 'Pasta Tonijn'
 date: 2024-02-07T11:35:53+01:00
 tags: ["vis"]
-featured_image: "/IMG_2185.jpeg"
+featured_image: "images/IMG_2185.jpeg"
 ---
 
 **Ingrediënten**

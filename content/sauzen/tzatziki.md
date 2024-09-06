@@ -2,7 +2,7 @@
 title: 'Tzatziki'
 date: 2024-03-10T12:13:16+01:00
 tags: ["nieuw", "vega"]
-featured_image: "/IMG_1073.jpeg"
+featured_image: "images/IMG_1073.jpeg"
 ---
 
 **Ingrediënten**

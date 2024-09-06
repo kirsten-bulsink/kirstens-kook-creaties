@@ -2,7 +2,7 @@
 title: 'Salade Nicoise'
 date: 2024-02-06T10:21:24+01:00
 tags: ["vis", "favoriet"]
-featured_image: "/IMG_1433.jpeg"
+featured_image: "images/IMG_1433.jpeg"
 ---
 
 **Ingrediënten**

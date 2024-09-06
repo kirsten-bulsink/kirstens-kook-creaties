@@ -2,7 +2,7 @@
 title: 'Broodje Tonijnsalade'
 date: 2024-02-07T10:24:07+01:00
 tags: ["vis"]
-featured_image: "/IMG_0424.jpeg"
+featured_image: "images/IMG_0424.jpeg"
 ---
 
 **Ingrediënten**

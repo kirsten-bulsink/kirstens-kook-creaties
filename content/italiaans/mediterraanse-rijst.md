@@ -2,7 +2,7 @@
 title: 'Mediterraanse Rijst'
 date: 2024-02-07T11:39:52+01:00
 tags: ["vega", "favoriet"]
-featured_image: "/IMG_0926.jpeg"
+featured_image: "images/IMG_0926.jpeg"
 ---
 
 **Ingrediënten**

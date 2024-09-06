@@ -2,7 +2,7 @@
 title: 'Groentepizza'
 date: 2024-02-07T10:50:12+01:00
 tags: ["vega"]
-featured_image: "/IMG_pizza.jpg"
+featured_image: "images/IMG_pizza.jpg"
 ---
 
 **Ingrediënten**
