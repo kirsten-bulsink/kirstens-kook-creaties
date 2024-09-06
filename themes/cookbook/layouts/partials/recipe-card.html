@@ -4,10 +4,13 @@
             <!-- show image without margin, if available -->
             <div class="card-image">
                 {{ if isset .Params "featured_image" }}
-                {{ $recipeimg := resources.Get (.Params.featured_image) }}
-                <figure style="margin: 0">
-                    <img src="{{ $recipeimg.RelPermalink }}">
-                </figure>
+                    {{ $recipeimg := resources.Get (.Params.featured_image) }}
+                    {{- $smallimg := $recipeimg.Resize "2000x1500 jpeg" }}
+                    {{ with $smallimg }}
+                        <figure style="margin: 0" class="image is-4by3">
+                            <img src="{{ .RelPermalink }}" loading="lazy">
+                        </figure>
+                    {{ end }}
                 {{ end }}
             </div>
             <!-- show recipe title and tags -->
@@ -15,7 +18,7 @@
                 {{ .LinkTitle }}
                 <div style="margin-top: 0.5em;">
                     {{ range .Params.Tags }}
-                    <p class="tag is-primary is-light">{{ . }}</p>
+                        <p class="tag is-primary is-light">{{ . }}</p>
                     {{ end }}
                 </div>
             </div>

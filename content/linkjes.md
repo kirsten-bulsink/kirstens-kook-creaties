@@ -1,7 +1,7 @@
 ---
 title: 'Linkjes naar recepten die ik graag maak'
 date: 2024-02-09T16:22:35+01:00
-featured_image: "IMG_risotto.jpg"
+featured_image: "images/IMG_risotto.jpg"
 ---
 
 ### Linkjes naar andere heerlijke recepten die ik graag maak

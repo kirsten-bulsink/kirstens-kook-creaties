@@ -2,7 +2,7 @@
 title: 'Zalmquiche'
 date: 2024-02-07T10:42:03+01:00
 tags: ["vis"]
-featured_image: "IMG_quiche.jpg"
+featured_image: "images/IMG_quiche.jpg"
 ---
 
 **Ingrediënten**
