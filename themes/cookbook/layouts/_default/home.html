@@ -2,67 +2,64 @@
 
 <div class="container">
 
-  <!-- Suprise me button with JS to shuffle on each reload-->
-  <div class="content">
-    <script>
-      window.onload = function(){
-        let allPermalinks = [
-          {{range .Site.RegularPages }}
-            "{{.Permalink }}",
-          {{ end }}
-        ];
-        let lengthPermalinks = allPermalinks.length;
-        let randomNumber = Math.floor(Math.random() * lengthPermalinks);
-        let link = allPermalinks[randomNumber];
-        document.getElementById('surprise').href = link;
-      };
-    </script>
-    <div class="container">
-      <div class="content">
-        <a class="button is-medium is-primary is-light" id="surprise" href="">
-          Verras me!
-        </a>
-      </div>
-    </div>
-  </div>
+  <!-- Buttons to different categories of recipes -->
+  <nav class="level"> 
+    <div class="buttons"> 
+      <!-- TODO: button to all recipes -->
+      {{/*  <button class="button is-medium is-success">Alle recepten</button>   */}}
+      <!-- Suprise me button with JS to shuffle on each reload-->
+      <script>
+        window.onload = function(){
+          let allPermalinks = [
+            {{range .Site.RegularPages }}
+              "{{.Permalink }}",
+            {{ end }}
+          ];
+          let lengthPermalinks = allPermalinks.length;
+          let randomNumber = Math.floor(Math.random() * lengthPermalinks);
+          let link = allPermalinks[randomNumber];
+          document.getElementById('surprise').href = link;
+        };
+      </script>
+      <a class="button is-medium is-primary is-light" id="surprise" href="">
+        Verras me!
+      </a>
+    </div> 
+  </nav> 
 
   <!-- This is a gallery with links to newest recipe content -->
-  <div class="content">
-    <h1>Nieuwste recepten</h1>
-
+  <section class="gallery">
+    <h1 class="title">Nieuwste recepten</h1>
     <div class="columns is-multiline">
       {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "nieuw")}} 
         {{ partial "recipe-card.html" $page }}
       {{ end }}
     </div>
+  </section>
 
-  </div>
-
-    <!-- This is a gallery with links to favorite recipe content -->
-    <div class="content">
-      <h1>Kirstens favorieten</h1>
-  
-      <div class="columns is-multiline">
-        {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "favoriet")}} 
-          {{ partial "recipe-card.html" $page }}
-        {{ end }}
-      </div>
-  
+  <!-- This is a gallery with links to favorite recipe content -->
+  <section class="gallery">
+    <h1 class="title">Kirstens favorieten</h1>
+    <div class="columns is-multiline">
+      {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "favoriet")}} 
+        {{ partial "recipe-card.html" $page }}
+      {{ end }}
     </div>
+  </section>
 
   <!-- About section -->
-  <div class="content">
-    <h1>Over Kirstens Kook Creaties</h1>
+  <section class="section">
     <div class="columns">
       <div class="column is-one-quarter">
         <img src="PXL_20230609_144613315.jpg">
       </div>
       <div class="column">
+        <h2 class="title">Over Kirstens Kook Creaties</h2>
         <!-- This refers to the index md file in the content folder -->
         {{ .Content }}
       </div>
     </div>
-  </div>
+  </section>
 
 </div>
 
