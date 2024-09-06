@@ -1,10 +1,8 @@
 ---
-title: 'Linkjes naar recepten die ik graag maak'
-date: 2024-02-09T16:22:35+01:00
+title: 'Linkjes naar andere leuke recepten'
+layout: 'links'
 featured_image: "images/IMG_risotto.jpg"
 ---
-
-### Linkjes naar andere heerlijke recepten die ik graag maak
 
 **Hoofdgerecht**
 - [Courgetti met gamba's](https://chickslovefood.com/recept/courgetti-met-gambas/)

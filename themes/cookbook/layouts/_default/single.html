@@ -24,7 +24,14 @@
 </div>
 
 <!-- Picture -->
-<img src="{{ .Site.BaseURL }}{{.Params.featured_image}}" width="500">
+{{ if isset .Params "featured_image" }}
+    {{ $recipeimg := resources.Get (.Params.featured_image) }}
+    {{ with $recipeimg }}
+        <figure style="margin: 0">
+            <img src="{{ .RelPermalink }}" width="500">
+        </figure>
+    {{ end }}
+{{ end }}
 
 <!-- Content -->
 <div class="content" style="margin-top:1rem; margin-bottom:1rem;">

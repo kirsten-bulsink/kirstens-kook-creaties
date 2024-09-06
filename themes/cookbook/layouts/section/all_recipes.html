@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<!-- Title -->
+<div class="content">
+    <h1>{{ .Title }}</h1>
+</div>
+
+<!-- Content of _index.md file-->
+<div class="content" style="margin-top:1rem; margin-bottom:1rem;">
+    {{ .Content }}
+</div>
+
+<!-- Show gallery of all recipes within a recipe category sorted by title -->
+<div class="columns is-multiline">
+    {{ range $page := .Site.RegularPages.ByTitle }}
+        {{ partial "recipe-card.html" $page }}
+    {{ end }}
+</div>
+
+
+{{ end }}
