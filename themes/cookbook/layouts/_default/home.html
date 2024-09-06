@@ -54,7 +54,8 @@
   <section class="section">
     <div class="columns">
       <div class="column is-one-quarter">
-        <img src="PXL_20230609_144613315.jpg">
+        {{ $kirstenimg := resources.Get "images/IMG_kirsten.jpg" }}
+            <img src="{{ $kirstenimg.RelPermalink }}">
       </div>
       <div class="column">
         <h2 class="title">Over Kirstens Kook Creaties</h2>
