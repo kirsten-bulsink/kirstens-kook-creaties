@@ -13,7 +13,7 @@ featured_image: "images/IMG_0811.jpeg"
 - Prei
 - Tauge
 - Bosui
-- Woksaus (ketjap-sesam van go tan) of [maak je eigen woksaus]({{< relref "/sauzen/woksaus.md" >}} "Link naar woksaus recept")
+- Woksaus (ketjap-sesam van go tan)
 - Vegetarische kipstukjes
 - Sojasaus
 - Sesamzaadjes en/of seroendeng

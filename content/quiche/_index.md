@@ -1,3 +1,3 @@
 ---
-title: "Quiche en Pizza"
+title: "Quiche"
 ---

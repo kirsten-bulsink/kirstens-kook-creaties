@@ -21,11 +21,6 @@ featured_image: "images/plate.jpg"
 - Buffelmozzarella 
 - Gemengde olijven
 
-*Topping biet-feta*
-- bietenspread --> nog een recept voor schrijven
-- feta
-- Verse pesto of zie hier een [recept voor zelfgemaakte pesto]({{< relref "/sauzen/pesto.md" >}} "Link naar pesto recept")
-
 **Benodigdheden**
 - Oven
 - Bakplaat
