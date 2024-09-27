@@ -2,7 +2,7 @@
 title: 'Crostini'
 date: 2024-02-07T11:50:20+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**
@@ -20,11 +20,6 @@ featured_image: "/plate.jpg"
 - Handje verse basilicum
 - Buffelmozzarella 
 - Gemengde olijven
-
-*Topping biet-feta*
-- bietenspread --> nog een recept voor schrijven
-- feta
-- Verse pesto of zie hier een [recept voor zelfgemaakte pesto]({{< relref "/sauzen/pesto.md" >}} "Link naar pesto recept")
 
 **Benodigdheden**
 - Oven

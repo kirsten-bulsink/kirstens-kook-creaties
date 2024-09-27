@@ -2,7 +2,7 @@
 title: 'Bietensalade'
 date: 2024-02-07T10:12:39+01:00
 tags: ["nieuw", "vega"]
-featured_image: "/IMG_0778.jpeg"
+featured_image: "images/IMG_0778.jpeg"
 ---
 
 **Ingrediënten**

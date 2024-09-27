@@ -2,7 +2,7 @@
 title: 'Pesto'
 date: 2024-08-28T12:13:16+01:00
 tags: ["nieuw", "vega"]
-featured_image: "/IMG_2489.jpeg"
+featured_image: "images/IMG_2489.jpeg"
 ---
 
 **Ingrediënten**

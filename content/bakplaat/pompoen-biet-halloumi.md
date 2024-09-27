@@ -2,7 +2,7 @@
 title: 'Pompoen Biet Halloumi'
 date: 2024-02-07T11:09:30+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/plate.jpg"
 ---
 
 **Ingrediënten**

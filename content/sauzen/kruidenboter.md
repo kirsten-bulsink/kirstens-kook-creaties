@@ -2,17 +2,20 @@
 title: 'Kruidenboter'
 date: 2024-02-07T11:50:57+01:00
 tags: ["vega"]
-featured_image: "/plate.jpg"
+featured_image: "images/IMG_2616.jpeg"
 ---
 
 **Ingrediënten**
-- 1 pakje ongezouten boter
-- Zeezout (liefst beetje grof gemalen)
-- 1 à 2 teentjes knoflook
-- Pakje verse bieslook
+- 1 pakje (250gr) ongezouten roomboter
+- Zeezout (gemalen, geen fijn zout)
+- 1 a 2 tenen knoflook
+- 25 gram verse bieslook
 
 **Recept**
-1. Laat de boter op kamertemperatuur worden.
-2. Snij de tenen knoflook fijn. Besprenkel met grof zeezout en 'maal' de knoflook super fijn met het zout en een mes. Snij ook de bieslook fijn.
-3. Meng de boter met 2/3e van het knoflook-zout mengesel. Proef eerst of 
-er nog meer nodig is voordat je alles toevoegt. Voeg eventueel meer zout toe. Voeg als laatst de bieslook toe.
+1. Laat de boter op kamertemperatuur worden in een kom. Als je er makkelijk met een vork doorheen kunt glijden dan is het goed. 
+2. Snij de teen knoflook fijn. Besprenkel met grof zeezout en plet de knoflook met een mes. Herhaal het sprenkelen met zout en malen met het mes totdat het een zacht mengsel wordt.
+3. Snij ook de bieslook fijn (knippen met een schaar werkt ook goed).
+4. Prak de boter met een vork tot een gladde massa. Voeg dan het knoflook-zout mengsel toe en meng goed door met de vork te prakken. Proef de boter en voeg eventueel meer zout toe naar smaak.
+5. Voeg als laatst de bieslook toe en meng opnieuw goed. 
+
+![knoflook pletten met een mes](/IMG_2609.jpeg)

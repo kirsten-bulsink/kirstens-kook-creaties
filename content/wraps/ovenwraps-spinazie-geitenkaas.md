@@ -2,7 +2,7 @@
 title: 'Ovenwraps met Spinazie en Geitenkaas'
 date: 2024-02-08T14:34:13+01:00
 tags: ["vega"]
-featured_image: "/pizza-wrap.jpg"
+featured_image: "images/pizza-wrap.jpg"
 ---
 
 Recept nog schrijven

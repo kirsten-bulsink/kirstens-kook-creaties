@@ -102,6 +102,12 @@ main {
   font-size: larger;
 }
 
+/* Styling for galleries */
+.gallery {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 /* Styling for recipe cards */
 .card:hover {
   box-shadow: 0 15px 18px 0 rgba(0, 0, 0, .15);
@@ -160,6 +166,27 @@ img[alt="pasta broccoli in de pan"] {
 img[alt="ovengroente, quinoa en falafel"] {
   width: 500px;
 }
+
+img[alt="tonijnmengsel"] {
+  width: 500px;
+}
+
+img[alt="quesedilla in de pan"] {
+  width: 500px;
+}
+
+img[alt="quesedilla zijkant"] {
+  width: 500px;
+}
+
+img[alt="knoflook pletten met een mes"] {
+  width: 500px;
+}
+
+img[alt="pizzasaus"] {
+  width: 500px;
+}
+
 
 /* Small images with the links page */
 img[alt="pompoen wellington in de maak"] {

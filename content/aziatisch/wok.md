@@ -2,7 +2,7 @@
 title: 'Wok met krokante vega kip'
 date: 2024-02-07T11:25:27+01:00
 tags: ["vega"]
-featured_image: "/IMG_0811.jpeg"
+featured_image: "images/IMG_0811.jpeg"
 ---
 
 **Ingrediënten**
@@ -13,7 +13,7 @@ featured_image: "/IMG_0811.jpeg"
 - Prei
 - Tauge
 - Bosui
-- Woksaus (ketjap-sesam van go tan) of [maak je eigen woksaus]({{< relref "/sauzen/woksaus.md" >}} "Link naar woksaus recept")
+- Woksaus (ketjap-sesam van go tan)
 - Vegetarische kipstukjes
 - Sojasaus
 - Sesamzaadjes en/of seroendeng

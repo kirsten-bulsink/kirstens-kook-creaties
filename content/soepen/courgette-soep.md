@@ -2,7 +2,7 @@
 title: 'Courgette soep met bieslook'
 date: 2023-12-28T14:19:39+01:00
 tags: ["vega"]
-featured_image: "/IMG_0802.jpeg"
+featured_image: "images/IMG_0802.jpeg"
 ---
 
 **Ingrediënten**

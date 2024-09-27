@@ -2,7 +2,7 @@
 title: 'Granola'
 date: 2024-02-06T10:11:47+01:00
 tags: ["vega", "favoriet"]
-featured_image: "/IMG_7177.jpeg"
+featured_image: "images/IMG_7177.jpeg"
 ---
 
 **Ingrediënten**

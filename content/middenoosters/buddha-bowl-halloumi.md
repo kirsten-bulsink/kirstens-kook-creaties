@@ -2,7 +2,7 @@
 title: 'Buddha Bowl Halloumi'
 date: 2024-02-07T11:14:06+01:00
 tags: ["vega", "favoriet"]
-featured_image: "/buddha-bowl-format.jpg"
+featured_image: "images/buddha-bowl-format.jpg"
 ---
 
 **Ingrediënten**
