@@ -8,7 +8,7 @@ featured_image: "images/plate.jpg"
 **Ingrediënten**
 
 *Voor 2 personen*
-- 2 speltbollen AH (of andere lekkere broodjes)
+- 2 speltbollen AH
 - 2 linzenburgers
 - Hummus
 - Rucola

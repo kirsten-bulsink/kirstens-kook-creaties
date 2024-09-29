@@ -4,3 +4,6 @@ title = 'Kirstens Kook Creaties'
 theme = 'cookbook'
 
 pluralizeListTitles = false
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

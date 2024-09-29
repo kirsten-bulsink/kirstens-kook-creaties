@@ -1,0 +1,68 @@
+{{ define "main" }}
+
+<!-- Title -->
+<div class="content">
+    <h1 id="search-title"></h1>
+</div>
+
+<!-- Results -->
+<div id="search-results" class="columns is-multiline">
+</div>
+
+<script>
+    window.onload = async function(){
+        const searchParams = new URLSearchParams(window.location.search);
+        let searchString = searchParams.get("search")
+        console.log(searchString)
+
+        // use Hugo to render all recipe-cards beforehand in a dict with Title as key
+        let recipeCardsObject = {
+            {{ range .Site.RegularPages }}
+                {{ .Title }}: `{{ partial "recipe-card.html" .}}`,
+            {{ end }}
+        };
+        
+        if (searchString !== "") {
+            document.getElementById("search-title").innerHTML = `Resultaten voor "${searchString}"` 
+            let data = await getData()
+            let matches = findMatches(data, searchString)
+            showResults(recipeCardsObject, matches)
+        } else {
+            document.getElementById('search-title').innerHTML = "Geen resultaten, voer een woord in om te zoeken...";
+        }
+
+        async function getData() {
+            const url = "/index.json";
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Response status: ${response.status}`);
+                }
+                const json = await response.json();
+                return json;
+            } catch (error) {
+                console.error(error.message);
+            }
+        }
+
+        function findMatches(data, searchString) {
+            let matches = []
+            for (const page of data) {
+                if (page.title.toLowerCase().includes(searchString.toLowerCase())) {
+                    matches.push(page.title)
+                }
+            } 
+            return matches
+        }
+
+        function showResults(recipeCardsObject, matches) {
+            let matchedRecipeCards = [];
+            for (let i = 0; i < matches.length; i++) {
+                matchedRecipeCards += recipeCardsObject[matches[i]];
+            } 
+            document.getElementById("search-results").innerHTML = matchedRecipeCards
+        }
+    };
+</script>
+
+{{ end }}

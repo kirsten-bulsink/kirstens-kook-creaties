@@ -2,46 +2,6 @@
 
 <div class="container">
 
-  <!-- Buttons to different categories of recipes -->
-  <nav class="level"> 
-    <div class="buttons"> 
-      <!-- TODO: button to all recipes -->
-      {{/*  <button class="button is-medium is-success">Alle recepten</button>   */}}
-      <a class="button is-medium is-primary is-light" href="{{ relURL "alle_recepten" }}">
-        Alle recepten
-      </a>
-      <!-- Suprise me button with JS to shuffle on each reload-->
-      <script>
-        window.onload = function(){
-          let allPermalinks = [
-            {{range .Site.RegularPages }}
-              "{{.Permalink }}",
-            {{ end }}
-          ];
-          let lengthPermalinks = allPermalinks.length;
-          let randomNumber = Math.floor(Math.random() * lengthPermalinks);
-          let link = allPermalinks[randomNumber];
-          document.getElementById('surprise').href = link;
-        };
-      </script>
-      <a class="button is-medium is-primary is-light" id="surprise" href="">
-        Verras me!
-      </a>
-      <form action=""></form>
-        <div class="field has-addons">
-          <div class="control">
-            <input class="input is-medium" type="text" placeholder="Zoek op recept">
-          </div>
-          <div class="control">
-            <button class="button is-medium is-light">
-              Zoek
-            </button>
-          </div>
-        </div>
-      </form>
-    </div> 
-  </nav> 
-
   <!-- This is a gallery with links to newest recipe content -->
   <section class="gallery">
     <h1 class="title">Nieuwste recepten</h1>

@@ -1,0 +1,37 @@
+<!-- Buttons to different categories of recipes -->
+<nav class="level"> 
+    <div class="buttons"> 
+      <!-- Button to all recipes -->
+      <a class="button is-medium is-primary is-light" href="{{ relURL "alle_recepten" }}">
+        Alle recepten
+      </a>
+      <!-- Suprise me button with JS to shuffle on each reload-->
+      <script>
+        window.onload = function(){
+          // use Hugo to render an array with all Permalinks beforehand
+          let allPermalinks = [
+            {{range .Site.RegularPages }}
+              "{{.Permalink }}",
+            {{ end }}
+          ];
+          let lengthPermalinks = allPermalinks.length;
+          let randomNumber = Math.floor(Math.random() * lengthPermalinks);
+          let link = allPermalinks[randomNumber];
+          document.getElementById('surprise').href = link;
+        };
+      </script>
+      <a class="button is-medium is-primary is-light" id="surprise" href="">
+        Verras me!
+      </a>
+      <form action="{{ relURL "zoeken" }}" method="GET">
+        <div class="field has-addons">
+          <div class="control">
+            <input class="input is-medium" type="text" name="search" placeholder="Zoek op recept">
+          </div>
+          <div class="control">
+            <input class="button is-medium is-light" value="Zoek", type="submit">
+          </div>
+        </div>
+      </form>
+    </div> 
+  </nav> 
