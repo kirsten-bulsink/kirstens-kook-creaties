@@ -23,10 +23,19 @@
       <a class="button is-medium is-primary is-light" id="surprise" href="">
         Verras me!
       </a>
+      <!-- Search bar which displays last search as value with JS -->
+      <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            const searchParams = new URLSearchParams(window.location.search);
+            let searchString = searchParams.get("search")
+            console.log(searchString)
+            document.getElementById('search-bar').value = searchString;
+        })
+      </script>
       <form action="{{ relURL "zoeken" }}" method="GET">
         <div class="field has-addons">
           <div class="control">
-            <input class="input is-medium" type="text" name="search" placeholder="Zoek op recept">
+            <input id="search-bar" class="input is-medium" type="text" name="search" placeholder="Zoek op recept" value="">
           </div>
           <div class="control">
             <input class="button is-medium is-light" value="Zoek", type="submit">

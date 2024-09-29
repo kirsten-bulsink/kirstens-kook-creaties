@@ -48,7 +48,8 @@
         function findMatches(data, searchString) {
             let matches = []
             for (const page of data) {
-                if (page.title.toLowerCase().includes(searchString.toLowerCase())) {
+                if (page.title.toLowerCase().includes(searchString.toLowerCase()) ||
+                page.content.toLowerCase().includes(searchString.toLowerCase())) {
                     matches.push(page.title)
                 }
             } 
