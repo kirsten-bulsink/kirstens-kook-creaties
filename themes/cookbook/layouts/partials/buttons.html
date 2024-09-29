@@ -2,7 +2,7 @@
 <nav class="level"> 
     <div class="buttons"> 
       <!-- Button to all recipes -->
-      <a class="button is-medium is-primary is-light" href="{{ relURL "alle_recepten" }}">
+      <a class="button is-medium is-primary is-light" href='{{ relURL "alle_recepten" }}'>
         Alle recepten
       </a>
       <!-- Suprise me button with JS to shuffle on each reload-->
@@ -32,7 +32,7 @@
             document.getElementById('search-bar').value = searchString;
         })
       </script>
-      <form action="{{ relURL "zoeken" }}" method="GET">
+      <form action='{{ relURL "zoeken" }}' method="GET">
         <div class="field has-addons">
           <div class="control">
             <input id="search-bar" class="input is-medium" type="text" name="search" placeholder="Zoek op recept" value="">
