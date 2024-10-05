@@ -16,8 +16,10 @@ featured_image: "images/IMG_quiche.jpg"
 - 300 gr (?) spinazie
 - 200 gr gerookte zalm
 - 6 eieren 
-- 200ml crème fraîche of sojaroom (AH) of 200 ml Griekse yoghurt 10% vet
+- 200ml crème fraîche\*
 - Geraspte kaas
+
+\* Je kan de crème fraîche ook vervangen door sojaroom of Griekse yoghurt (10% vet)
 
 **Benodigdheden**
 - Oven

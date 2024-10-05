@@ -15,11 +15,10 @@ featured_image: "images/IMG_2085.jpeg"
 - 1 courgette
 - 300 gr spinazie
 - 6 eieren 
-- 200ml crème fraîche of sojaroom (AH) of 200 ml Griekse yoghurt 10% vet
-- Zachte geitenkaas
+- 200ml crème fraîche\*
 - Honing
 
-Variatie: met plakken trostomaat en perano kaas ipv geitenkaas en honing
+\* Je kan de crème fraîche ook vervangen door sojaroom of Griekse yoghurt (10% vet)
 
 **Benodigdheden**
 - Oven
