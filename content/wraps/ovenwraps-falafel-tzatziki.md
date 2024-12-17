@@ -1,7 +1,7 @@
 ---
 title: 'Ovenwraps met Falafel en Tzatziki'
 date: 2024-03-10T12:12:16+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "images/IMG_1075.jpeg"
 ---
 
