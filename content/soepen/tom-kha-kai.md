@@ -16,7 +16,7 @@ featured_image: "images/IMG_2536.jpeg"
 - 1,5 blokje groentebouillon
 - 850 ml water 
 - 2 nestjes (rijst)noedels (bijv. van fairtrade)
-- 4 el vissaus 
+- 4 el vissaus (dit is niet vegetarisch!)
 - 1 limoen
 - 2 stengels bosui 
 - Koriander 

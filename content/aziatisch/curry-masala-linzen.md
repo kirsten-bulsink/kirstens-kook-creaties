@@ -1,7 +1,7 @@
 ---
 title: 'Linzencurry met Spinazie'
 date: 2024-02-07T11:24:56+01:00
-tags: ["vega", "favoriet"]
+tags: ["vega"]
 featured_image: "images/IMG_0787.jpeg"
 ---
 

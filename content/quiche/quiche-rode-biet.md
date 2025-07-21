@@ -2,7 +2,7 @@
 title: 'Quiche Rode Biet Feta'
 date: 2024-10-04T10:47:53+01:00
 tags: ["nieuw", "vega"]
-featured_image: "images/IMG_2713.jpeg"
+featured_image: "images/IMG_2720.jpeg"
 ---
 
 **Ingrediënten**

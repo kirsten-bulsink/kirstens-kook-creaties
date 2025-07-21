@@ -1,7 +1,7 @@
 ---
 title: 'Wrap Rolletjes met Avocado en Vega Kip'
 date: 2024-12-17T22:26:10+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "images/IMG_4061.jpeg"
 ---
 

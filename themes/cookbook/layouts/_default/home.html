@@ -2,6 +2,16 @@
 
 <div class="container">
 
+    <!-- This is a gallery with links to seasonal recipe content -->
+  <section class="gallery">
+    <h1 class="title">In het seizoen</h1>
+    <div class="columns is-multiline">
+      {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "zomer")}} 
+        {{ partial "recipe-card.html" $page }}
+      {{ end }}
+    </div>
+  </section>
+
   <!-- This is a gallery with links to newest recipe content -->
   <section class="gallery">
     <h1 class="title">Nieuwste recepten</h1>

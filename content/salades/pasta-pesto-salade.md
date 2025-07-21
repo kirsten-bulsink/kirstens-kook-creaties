@@ -1,7 +1,7 @@
 ---
 title: 'Frisse Pasta Pesto Salade'
 date: 2024-08-28T12:13:16+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega", "zomer"]
 featured_image: "images/IMG_2510.jpeg"
 ---
 

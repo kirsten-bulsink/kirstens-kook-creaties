@@ -1,7 +1,7 @@
 ---
-title: 'Massaman Curry met Zoete Aardappel'
+title: 'Zoete Aardappel Curry'
 date: 2024-02-07T11:23:56+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "images/IMG_0960.jpeg"
 ---
 
@@ -14,7 +14,7 @@ featured_image: "images/IMG_0960.jpeg"
 - 1 rode chilipeper
 - 2 tenen knoflook
 - Stuk gember
-- 2 grote lepels massaman curry van Koh Thai
+- 2 grote lepels gele curry van Koh Thai
 - 400ml kokosmelk
 - Limoen
 - Yoghurt

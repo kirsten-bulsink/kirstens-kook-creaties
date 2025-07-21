@@ -12,7 +12,7 @@ featured_image: "images/IMG_2670.jpeg"
 - 2 paprika's
 - 2 tenen knoflook
 - Stuk gember
-- 2 grote lepels gele curry
+- 2 grote lepels gele curry van Koh Thai
 - 1 blik kikkererwten (400gram)
 - 400ml kokosmelk
 - Limoen

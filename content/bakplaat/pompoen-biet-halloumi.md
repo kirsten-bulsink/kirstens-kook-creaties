@@ -1,7 +1,7 @@
 ---
 title: 'Pompoen Biet Halloumi'
 date: 2024-12-16T22:26:10+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "images/IMG_4041.jpeg"
 ---
 

@@ -223,6 +223,22 @@ img[alt="groentestoof in de pan"] {
   width: 500px;
 }
 
+img[alt="frittata groente in de pan"] {
+  width: 500px;
+}
+
+img[alt="frittata gaar"] {
+  width: 500px;
+}
+
+img[alt="parelcouscous groente op plaat"] {
+  width: 500px;
+}
+
+img[alt="parelcouscous in pan"] {
+  width: 500px;
+}
+
 /* Small images with the links page */
 img[alt="pompoen wellington in de maak"] {
   width: 200px;
