@@ -10,7 +10,7 @@ featured_image: "images/IMG_2584.jpeg"
 - 1/2 komkommer
 - 2 handjes snoeptomaatjes
 - 3 stengels bosui
-- 1 granaatappel
+- 1 bakje granaatappelpitjes
 - 100 gram feta
 - Half handje pompoenpitten
 - Half handje zonnebloempitten
@@ -21,7 +21,10 @@ featured_image: "images/IMG_2584.jpeg"
 - 1 eetlepel balsamico azijn
 
 **Recept**
-1. Snij alle groente en de kruiden en meng in een kom.
-2. Rooster ondertussen de pitten zonder olie in een pan op laag vuur
+1. Snij de komkommer en tomaatjes in plakjes en de bosui in ringen en voeg samen met de sla melange toe aan een grote saladekom.
+2. Verwijder de steeltjes van de peterselie en munt en hak fijn met een mes. Voeg het toe aan de kom. Voeg ook de granaatappelpitjes toe.
+2. Rooster ondertussen de pitten zonder olie in een pan op laag vuur.
 3. Maak de dressing van sap van een halve citroen, olijfolie, balsamcio, en zout en peper.
 4. Meng de dressing door de salade. Verkruimel daarna de feta over de kom en strooi als laatste de geroosterde pitten er over.
+
+**Tip:** voor een maaltijdversie kun je ook bulgur aan de salade toevoegen. Kook zoals aangegeven op de verpakking en laat even afkoelen voordat je het aan de salade toevoegd.
