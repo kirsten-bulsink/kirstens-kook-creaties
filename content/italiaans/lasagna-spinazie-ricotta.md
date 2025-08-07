@@ -5,29 +5,31 @@ tags: ["vega", "favoriet"]
 featured_image: "images/IMG_0536.jpeg"
 ---
 
+*Voor 6 personen*
+
 **Ingrediënten**
 - 1 pak (verse) lasagnabladen
-- 1 Ui
+- 2 uien
 - 2 tenen knoflook
-- 1 Aubergine
+- 1 grote (of 2 kleine) aubergines
 - 2 blikken gepelde tomaten
 - 2 eetlepels tomatenpuree
 - 2 handjes verse basilicum
-- Lepeltje kristalsuiker
+- 1 eetlepel kristalsuiker
 - Gedroogd laurierblaadje
 - 1 bouillonblokje
 - Italiaanse kruiden
 - 600 gram spinazie
 - 250 gram ricotta
-- 1 citroen
-- theelepel nootmuskaat
+- 1 citroen (schil)
+- 1 theelepel nootmuskaat
 - 150 gram parmezaanse kaas
 - 2 grote tomaten
-- 1,5 bol mozzarella
+- 2 bollen mozzarella
 
 **Benodigdheden**
 - Oven
-- Grote ovenschaal
+- Grote ovenschaal (mijne is 35 bij 25)
 - Rasp
 
 **Recept**
