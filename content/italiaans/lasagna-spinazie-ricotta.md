@@ -39,10 +39,11 @@ featured_image: "images/IMG_0536.jpeg"
 4. Snij de aubergine in blokjes en bak met wat zout in een andere pan. Voeg toe aan de tomatensaus.
 4. Laat de spinazie in delen slinken in een andere pan. Als de spinazie helemaal zacht is kun je het vocht er verder uitdrukken in een zeef.
 5. Schep de spinazie in een mengkom en laat even afkoelen. Rasp ondertussen de schil van de citroen en de parmezaan. 
-6. Voeg de ricotta toe aan de spinazie samen met 1/3 van de parmezaanse kaas, de geraspte citroenschil en de nootmuskaat. Breng op smaak met zout en peper.
+6. Voeg de ricotta toe aan de spinazie samen met de geraspte citroenschil en de nootmuskaat. Breng op smaak met zout en peper.
 7. Snij de mozzarella en de tomaten in dunne plakken. Leg alles klaar om de lasagna op te bouwen.
-7. Maak een laag in de ovenschaal van eerst tomatensaus, dan de lasagnabladen en dan een laagje spinazie-ricotta. Maak nog een zelfde laag. Beleg dan de bovenkant met afwisselend mozzarella-tomaat plakken en strooi daar de overige parmezaanse kaas overheen.
-8. Bak de lasagna in de oven voor 40 minuten. Serveer met een blaadje verse basilicum.
+8. Maak een laag in de ovenschaal van 1/3 deel van de tomatensaus, dan een laag met de lasagnabladen en dan een laag met het spinazie-ricotta mengsel. Van de spinazie-ricotta kun je ongeveer twee goede lagen maken, dus gebruik ongeveer de helft van het mengsel. Maak nog een keer dezelfde laagjes en sluit dan af met de laatste 1/3e deel tomatensaus. 
+9. Beleg dan de bovenkant met afwisselend mozzarella-tomaat plakken en strooi daar de parmezaanse kaas overheen.
+10. Bak de lasagna in de oven voor 40 minuten. Serveer met een blaadje verse basilicum.
 
 ![lasagna bouwen](/IMG_9283.jpeg)
 
