@@ -7,27 +7,26 @@ featured_image: "images/IMG_0787.jpeg"
 
 **Ingrediënten**
 
-*Voor 3/4 personen*
-- 2 paprika's
-- 1 aubergine
+*Voor 4 personen*
+- 3 paprika's
 - 400 gram spinazie
-- 2 tenen knoflook
-- Stuk gember
-- 1 eetlepel garam masala kruiden
-- 2 a 3 eeetlepels rode currypasta
+- 1 ui
+- 2cm gember
+- 2 grote lepels gele curry van Koh Thai
 - 1 blik tomatenblokjes
-- 400 gram linzen (uit blik)
+- 400 gram gedroogde rode linzen
 - 400 ml kokosmelk
-- 1 limoen
 - Yoghurt
 - Koriander
-- Rijst
-- Eventueel: naanbrood
+- Rijst (40gram pp)
+- 2 naanbroden
 
 **Recept**
-1. Snij alle groente en kruiden.
-2. Fruit als eerst de knoflook en gember in de pan. Fruit dan ook de garam masala kruiden en de curry pasta mee.
-3. Voeg de aubergine toe. Als deze gaar is, voeg ook de paprika toe. Voeg als laatst de tomatenblokjes en de kokosmelk toe. Laat op laag vuur garen.
-4. Kook ondertussen ook de rijst.
-5. Voeg de spinazie in delen toe aan de curry. Voeg ook de linzen toe. Als de spinazie is geslonken, breng op smaak met limoensap en zout naar smaak.
-6. Serveer de curry met yoghurt en koriander.
+1. Snij de paprika en de ui klein en snij de gember fijn.
+2. Fruit als eerst de ui en de gember in de pan. Fruit dan ook kort de curry pasta mee.
+3. Voeg de tomatenblokjes, de kokosmelk en de paprika toe. Laat op laag vuur garen en roer regelmatig.
+4. Kook ondertussen de rijst zoals aangegeven op de verpakking. 
+5. Kook ook de linzen ongeveer 8 minuten (maar check ook even de verpakking). Proef of ze gaar zijn en voeg ze dan toe aan de curry.
+6. Voeg de spinazie in delen toe aan de curry en laat slinken.
+7. Als alles bijna klaar is kun je de naanbroden in de oven bakken.
+8. Serveer de linzencurry met naan, yoghurt en koriander.

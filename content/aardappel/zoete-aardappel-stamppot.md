@@ -1,7 +1,7 @@
 ---
 title: 'Zoete Aardappel Stamppot met Geitenkaas'
 date: 2024-02-07T10:39:34+01:00
-tags: ["vega"]
+tags: ["vega", "herfst"]
 featured_image: "images/IMG_1083.jpeg"
 ---
 
@@ -27,4 +27,4 @@ featured_image: "images/IMG_1083.jpeg"
 4. Schep de groente door de aardappels.
 5. Verdeel over de borden en garneer met geitenkaas en walnoten.
 
-Gebaseerd op [dit](https://www.ah.nl/allerhande/recept/R-R1191246/zoete-aardappelstamppot-met-prei-geitenkaas-en-walnoten) Allerhande recept.
+Mijn versie van [dit](https://www.ah.nl/allerhande/recept/R-R1191246/zoete-aardappelstamppot-met-prei-geitenkaas-en-walnoten) Allerhande recept.

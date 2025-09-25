@@ -1,15 +1,15 @@
 ---
 title: 'Quiche Rode Biet Feta'
 date: 2024-10-04T10:47:53+01:00
-tags: ["nieuw", "vega"]
-featured_image: "images/IMG_2720.jpeg"
+tags: ["nieuw", "vega", "herfst"]
+featured_image: "images/bietenquiche.jpg"
 ---
 
 **Ingrediënten**
 
 *Voor een bakblik van ~25cm*
 - 6 a 7 plakjes volkoren bladerdeeg
-- 1 rode ui
+- 2 rode uien
 - 500 gr gekookte biet
 - 2 eetlepels balsamico azijn
 - 2 eetlepels bastersuiker
@@ -39,4 +39,4 @@ featured_image: "images/IMG_2720.jpeg"
 8. Verkruimel de walnoten en de feta er over de bovenkant. Bestrooi als laatst met de geraspte kaas.  
 9. Bak de quiche in 30-40 minuten af.
 
-![bietenquiche uit de oven](/IMG_2706.jpeg)
+![bietenquiche uit de oven](/bietenquiche2.jpg)

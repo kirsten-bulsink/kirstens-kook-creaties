@@ -6,7 +6,7 @@
   <section class="gallery">
     <h1 class="title">In het seizoen</h1>
     <div class="columns is-multiline">
-      {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "zomer")}} 
+      {{ range $page := where .Site.RegularPages "Params.tags" "intersect" (slice "herfst")}} 
         {{ partial "recipe-card.html" $page }}
       {{ end }}
     </div>

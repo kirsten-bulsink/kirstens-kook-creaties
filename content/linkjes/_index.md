@@ -7,11 +7,6 @@ featured_image: "images/IMG_risotto.jpg"
 **Hoofdgerechten**
 - [Courgetti met gamba's](https://chickslovefood.com/recept/courgetti-met-gambas/)
 - [Orzo met gamba's en feta van Ottolenghi](https://www.leukerecepten.nl/review-ottolenghi-simpel-recept-orzo-met-garnalen/)
-- [Pokebowl met zalm](https://www.brendakookt.nl/2016/09/24/poke-bowl-met-zalm-en-mango/)
-- [Risotto met zalm van Bertolli](https://www.bertolli.nl/nl/bertolli-recepten/risotto-met-zalm-kerstomaatjes-en-pesto-verde/)
-
-![risotto met zalm](/IMG_risotto.jpg)
-
 - [Ravioli met ricotta en spinazie](https://watschaftdepodcast.com/recept/ravioli-met-spinazie-en-ricotta/)
 
 ![ravioli met ricotta spinazie](/IMG_4098.jpeg)
@@ -28,15 +23,12 @@ featured_image: "images/IMG_risotto.jpg"
 
 **Voor- of bijgerechten**
 - [Vijgencarpaccio](https://www.dehippevegetarier.nl/vegetarische-recepten/vijgencarpaccio/)
-- [Aubergines van Ottolenghi](https://www.culy.nl/recepten/geroosterde-aubergines-met-yoghurt/)
-
-![aubergines van ottolenghi](/IMG_2392.jpeg)
-
 - [Zoetzure komkommer](https://www.eefkooktzo.nl/zoetzure-komkommer/)
 
 ![zoetzure komkommer](/zoet-zure-komkommer.jpg)
 
 **Snacks**
+- [Paprika feta hapjes](https://courgetticonfetti.nl/recept/paprika-feta-hapjes/)
 - [Filodeeghapjes met spinazie en feta](https://www.littlespoon.nl/2017/07/filodeeghapjes-met-feta-en-spinazie/)
 - [Bladerdeeghapjes met tonijn](https://www.lekkerensimpel.com/tonijn-bladerdeegpakketjes/)
 - [Courgette roosjes](https://www.leukerecepten.nl/recepten/hartige-courgette-roosjes/)
