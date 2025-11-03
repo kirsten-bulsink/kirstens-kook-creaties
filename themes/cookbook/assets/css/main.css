@@ -243,6 +243,11 @@ img[alt="rode pastasaus in de pan"] {
   width: 500px;
 }
 
+img[alt="gnocchi saus in de pan"] {
+  width: 500px;
+}
+
+
 /* Small images with the links page */
 img[alt="pompoen wellington in de maak"] {
   width: 200px;
@@ -273,5 +278,9 @@ img[alt="zoetzure komkommer"] {
 }
 
 img[alt="ravioli met ricotta spinazie"] {
+  width: 200px;
+}
+
+img[alt="bananenbrood"] {
   width: 200px;
 }

@@ -1,2 +1,2 @@
-Deze recepten begonnen ooit als een groot Word-document dat ik vaak doorbladerde op zoek naar kookinspiratie. Tijdens een remote werkvakantie in Italië in februari 2024 besloot ik om een website te maken. Het leek me leuk om zelf een website te bouwen, en daarmee kon ik mijn verzameling recepten direct overzichtelijk maken en delen met vrienden. Voor de tech-liefhebbers: de code is openbaar beschikbaar via de GitHub-knop!
-
+Deze recepten begonnen ooit als één groot Word-document dat ik vaak doorbladerde op zoek naar kookinspiratie. Tijdens een remote werkvakantie in Italië, in februari 2024, besloot ik dat het tijd was voor iets beters: een eigen website! Zo kon ik mijn verzameling overzichtelijk maken, delen met vrienden en tegelijkertijd ervaring opdoen met webontwikkeling.
+Voor de liefhebbers: de code vind je via de GitHub-knop.

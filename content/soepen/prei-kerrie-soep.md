@@ -1,7 +1,7 @@
 ---
-title: 'Prei Kerrie Soep'
+title: 'Prei-Kerrie Soep met Appel'
 date: 2024-02-06T10:18:28+01:00
-tags: ["vega"]
+tags: ["vega", "herfst"]
 featured_image: "images/IMG_1019.jpeg"
 ---
 

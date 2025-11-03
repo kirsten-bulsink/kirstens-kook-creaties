@@ -1,32 +1,33 @@
 ---
-title: 'Gnocchi met Ricotta Tomatensaus'
-date: 2024-02-07T11:38:48+01:00
-tags: ["vega"]
-featured_image: "images/plate.jpg"
+title: 'Gnocchi met Ricotta-tomatensaus'
+date: 2025-11-03T11:38:48+01:00
+tags: ["vega", "nieuw"]
+featured_image: "images/IMG_0764.jpeg"
 ---
 
 **Ingrediënten**
-- Gnocchi
-- Ui
-- Knoflook
-- Aubergine
-- Courgette
-- 400gr verse spinazie
+
+*Voor 4 personen*
+- 750 gram gnocchi
+- 1 Ui
+- 2 tenen knoflook
+- 1 Aubergine
+- 1/2 courgette
+- 300 gram verse spinazie
 - 1 blik gepelde tomaten
 - 500gr passata (gezeefde tomaten)
 - 1 groentebouillonblokje
-- Ricotta
-- Zongedroogde tomaatjes
+- 250 gram ricotta
+- Semi zongedroogde tomaten (80-100 gram, naar smaak)
 - Italiaanse kruiden
-- Scheutje extra vierge olijfolie
 
 **Recept**
-1. Snij alle groenten. 
-2. Gebruik een grote pan voor de tomatensaus. Fruit eerst de ui en knoflook. Voeg dan de gepelde tomaten, de passata en het bouillonblokje toe en laat inkoken. 
-3. Breng op saus smaak met italiaanse kruiden, peper en een scheutje extra vierge olijfolie. Soms kan een klein lepeltje kristalsuiker ook lekker zijn als je passata geen suiker bevat.
-4. Bak ondertussen in een andere pan eerst de aubergine (met zout) en voeg daarna de courgette toe. Breng op smaak met peper en italiaanse kruiden.
-5. Bak in een aparte pan de gnocchi tot ze goudbruin zijn.
-6. Voeg ondertussen in delen de spinazie toe aan de tomatensaus. Snij de zontomaatjes in reepjes en voeg ook toe aan de saus. 
-7. Roer als laatst de gebakken groenten en de ricotta door de saus en serveer dan direct met de gnocchi. 
+1. Snij de ui en knoflook fijn en snij de aubergine en courgette in blokjes. 
+2. Gebruik een grote pan voor de tomatensaus. Fruit eerst de ui en knoflook. Bak eerst de aubergine met een snufje zout en voeg daarna de courgette toe. 
+3. Als de groente gaar is kun je de gepelde tomaten en de passata toevoegen. Verkruimel het bouillonblokje en laat de saus op middelhoog vuur inkoken. Breng op smaak met italiaanse kruiden en peper.
+4. Bak ondertussen in een aparte pan de gnocchi. Je hoeft de gnocchi niet eerst te koken! Voeg wel in het begin een scheutje water toe aan de pan. Bak voor 15-20 minuten tot ze goudbruin zijn.
+5. Voeg ondertussen de spinazie in delen toe aan de tomatensaus. 
+6. Snij de zongedroogde tomaatjes in reepjes en voeg toe aan de saus. 
+7. Roer als laatst de ricotta door de saus en serveer dan direct met de krokante gnocchi. 
 
-Tip: serveer de gnocchi en de saus naast elkaar (niet op elkaar) op het bord zodat de gnocchi krokant blijft.
+![gnocchi saus in de pan](/IMG_0739.jpeg)

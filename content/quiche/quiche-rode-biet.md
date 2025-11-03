@@ -1,7 +1,7 @@
 ---
 title: 'Quiche Rode Biet Feta'
 date: 2024-10-04T10:47:53+01:00
-tags: ["nieuw", "vega", "herfst"]
+tags: ["vega", "herfst"]
 featured_image: "images/bietenquiche.jpg"
 ---
 

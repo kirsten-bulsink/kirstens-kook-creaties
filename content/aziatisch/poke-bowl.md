@@ -1,7 +1,7 @@
 ---
 title: 'Poke Bowl'
 date: 2024-02-07T11:26:27+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "images/IMG_0174.jpeg"
 ---
 

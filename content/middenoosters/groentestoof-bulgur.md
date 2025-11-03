@@ -1,7 +1,7 @@
 ---
 title: 'Groentestoof met Bulgur'
 date: 2024-02-07T11:16:11+01:00
-tags: ["vega", "herfst"]
+tags: ["vega", "favoriet"]
 featured_image: "images/IMG_0522.jpeg"
 ---
 

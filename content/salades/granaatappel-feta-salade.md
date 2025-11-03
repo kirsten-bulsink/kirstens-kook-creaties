@@ -1,7 +1,7 @@
 ---
 title: 'Granaatappel Feta Salade'
 date: 2024-02-07T10:06:58+01:00
-tags: ["vega"]
+tags: ["vega", "favoriet"]
 featured_image: "images/IMG_2584.jpeg"
 ---
 

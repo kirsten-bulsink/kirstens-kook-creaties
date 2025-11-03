@@ -16,12 +16,11 @@ featured_image: "images/IMG_2536.jpeg"
 - 1,5 blokje groentebouillon
 - 850 ml water 
 - 2 nestjes (rijst)noedels (bijv. van fairtrade)
-- 4 el vissaus (dit is niet vegetarisch!)
+- 4 el vissaus (let op: dit ingrediënt is niet vegetarisch!)
 - 1 limoen
 - 2 stengels bosui 
 - Koriander 
-- Broodje voor erbij
-- Eventueel: eieren voor een spiegeleitje
+- (Stok)broodje voor erbij
 
 **Benodigdheden**
 - Grote soeppan
@@ -32,5 +31,5 @@ featured_image: "images/IMG_2536.jpeg"
 3. Wokgroente toevoegen en kort meebakken.
 4. Kokosmelk, bouillon en kokend water toevoegen. Breng aan de kook en zorg er voor dat het niet te lang kookt zodat de groente een bite blijft houden. Voeg ook de noedels toe.
 6. Eventueel: bak ondertussen de spiegeleieren.
-7. Breng de soep op smaak met sap van 1 limoen en de vissaus.
+7. Breng de soep op smaak met sap van 1 limoen en de vissaus. Of laat de vissaus weg voor een vegetarische versie.
 8. Garneer de soep met bosui en koriander.

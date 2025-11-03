@@ -14,11 +14,13 @@ featured_image: "images/IMG_4214.jpeg"
 - 1 Puntpaprika
 - 1/3 komkommer
 - 100 gr feta
+- Bakje verse tzatziki [of maak hem zelf!]({{< relref "/sauzen/tzatziki.md" >}} "Link naar tzatziki recept")
 
 **Benodigdheden**
 - Oven of broodrooster
 
 **Recept**
 1. Snij de puntpaprika, komkommer en de avocado in plakjes.
-2. Bak ondertussen de falafel en toast de pitabroodjes in een broodrooster of oven.
+2. Bak ondertussen de falafel.
+3. Toast de pitabroodjes in een broodrooster of oven.
 3. Snij het pitabroodje tot de helft open en beleg hem goed met alle ingrediënten.
