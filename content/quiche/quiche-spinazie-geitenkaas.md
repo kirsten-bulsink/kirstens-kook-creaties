@@ -8,17 +8,22 @@ featured_image: "images/IMG_2085.jpeg"
 **Ingrediënten**
 
 *Voor een bakblik van ~25cm*
-- 6 plakjes bladerdeeg of hartig taartdeeg (volkoren)
-- Maizena
+- 7 plakjes bladerdeeg
 - 1 ui
 - 2 teentjes knoflook
-- 1 courgette
-- 300 gr spinazie
+- 1,5 courgette
+- 400 g spinazie
 - 6 eieren 
-- 200ml crème fraîche\*
-- Honing
+- 200 ml crème fraîche\*
+- 100 g geraspte kaas
+- 125 g zachte geitenkaas
+- 1 tl maizena
+- Boter om in te vetten
 
-\* Je kan de crème fraîche ook vervangen door sojaroom of Griekse yoghurt (10% vet)
+\* Je kan de crème fraîche ook vervangen door sojaroom
+
+*Serveertip:* Lekker samen met de [Peer Geitenkaas Salade]({{< relref "/salades/peer-geitenkaas-salade.md" >}} "Link naar peer-geitenkaas salade recept")
+
 
 **Benodigdheden**
 - Oven
@@ -26,12 +31,13 @@ featured_image: "images/IMG_2085.jpeg"
 - Vergiet
 
 **Recept**
-1. Verwarm de oven voor op 200 graden en laat het bladerdeeg ontdooien.
-2. Bak de spinazie met de knoflook en druk het vocht er uit in een vergiet. Laat goed afkoelen.
-3. Snij de ui en courgette en bak in een pan. Ter decoratie: snij ook ~10 dunne plakjes courgette en bak die ook.
-4. Smeer het bakblik in met boter of olie. Bekleed de binnenkant met het bladerdeeg. Prik gaatjes in de onderkant en strooi een beetje maizena op de bodem voor het vocht.
-5. Klop de eieren los met de crème fraîche en breng op smaak met zout en peper. Voeg ook de helft van de geitenkaas toe.
-6. Meng de spinazie voorzichtig door het eimengsel zodat het goed verdeeld wordt.
-7. Voeg eerst de courgette/ui toe in de bakvorm, stort daarna het ei-spinaziemengsel er overheen. Vouw het bladerdeeg een stukje over de vulling heen.
-8. Beleg met afwisselend een plakje geitenkaas en een plakje courgette. Besprenkel met honing. 
-9. Bak de quiche in 30-40 minuten af.
+1. Verwarm de oven voor op 200 graden en laat de plakjes bladerdeeg ontdooien.
+2. Slink de spinazie in een ruime pan met een beetje olijfolie. Giet de spinazie af in een vergiet en druk het vocht er goed uit met een lepel of je handen. Laat goed afkoelen.
+3. Snij de ui en knoflook fijn. Snij 1 courgette in kleine blokjes en 0,5 courgette in dunne plakjes (voor de decoratie).
+4. Fruit de ui en de knoflook. Voeg de courgette toe en bak ze gaar. Laat afkoelen in de pan. *Belangrijk:* leg de courgetteplakjes apart op een bord.
+5. Vet het bakblik in met boter en bekleed de vorm met het bladerdeeg. Prik met een vork gaatjes in de bodem. Strooi de maizena over de bodem (dit absorbeert overtollig vocht).
+6. Klop de eieren los met de crème fraîche en breng op smaak met zout en peper. 
+7. Meng de spinazie en de courgette voorzichtig door het eimengsel.
+8. Stort het mengsel in de vorm en vouw de randjes van het bladerdeeg een stukje over de vulling.
+9. Beleg de quiche afwisselend met een plakje geitenkaas en een plakje courgette. Strooi als laatste de geraspte kaas eroverheen.
+10. Bak de quiche in 30-40 minuten goudbruin en gaar in de oven.

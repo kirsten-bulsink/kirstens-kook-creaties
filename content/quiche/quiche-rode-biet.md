@@ -20,7 +20,7 @@ featured_image: "images/bietenquiche.jpg"
 - 2 handjes walnoten
 - Maizena
 
-\* Je kan de sojaroom ook vervangen door crème fraîche of Griekse yoghurt (10% vet)
+\* Je kan de sojaroom ook vervangen door crème fraîche
 
 **Benodigdheden**
 - Oven

@@ -1,7 +1,7 @@
 ---
 title: 'Bananenpannenkoekjes met Pecannoten'
 date: 2024-12-07T15:08:58+01:00
-tags: ["nieuw", "vega"]
+tags: ["vega"]
 featured_image: "images/IMG_3945.jpeg"
 ---
 
