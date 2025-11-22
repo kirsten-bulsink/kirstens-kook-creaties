@@ -10,16 +10,16 @@ featured_image: "images/IMG_2670.jpeg"
 *Voor 3/4 personen*
 - 1 middelgrote bloemkool
 - 2 paprika's
-- 250 gram sperziebonen
+- 250 g sperziebonen
 - 2 tenen knoflook
 - 2cm gember
 - 2 grote lepels gele curry van Koh Thai
-- 1 blik kikkererwten (400gram)
+- 1 blik kikkererwten (400g)
 - 400ml kokosmelk
 - 1 Limoen
 - Yoghurt
 - Koriander
-- Rijst (ongeveer 75gram pp)
+- Rijst (ongeveer 75g pp)
 
 **Recept**
 1. Snij ook de paprika's in blokjes en de bloemkool kleine roosjes (ongeveer 2cm). Snij ook de gember en knoflook fijn.

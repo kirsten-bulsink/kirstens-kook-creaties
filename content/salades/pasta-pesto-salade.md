@@ -8,16 +8,16 @@ featured_image: "images/IMG_2510.jpeg"
 **Ingrediënten**
 
 *Voor 4 personen*
-- 75 gram rucola
+- 75 g rucola
 - Pasta (volkoren penne)
 - 2 puntpaprika's
-- 350 gram snoeptomaatjes
+- 350 g snoeptomaatjes
 - 1 komkommer 
 - Half potje zwarte olijven (plakjes)
-- 200 gram mozzarella 
+- 200 g mozzarella 
 - Flinke hand zonnebloempitjes
-- 200 gram [pesto]({{< relref "/sauzen/pesto.md" >}})
-- 170 gram griekse yoghurt (klein bakje Dodoni 5%)
+- 200 g [pesto]({{< relref "/sauzen/pesto.md" >}})
+- 170 g griekse yoghurt (klein bakje Dodoni 5%)
 - 1 citroen
 
 **Recept**

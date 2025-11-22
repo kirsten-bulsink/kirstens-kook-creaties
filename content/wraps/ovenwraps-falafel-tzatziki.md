@@ -13,7 +13,7 @@ featured_image: "images/IMG_1075.jpeg"
 - 1 paprika
 - 1 courgette
 - 1 rode ui
-- 100 gram feta
+- 100 g feta
 - Ras el hanout 
 - [Tzatziki]({{< relref "/sauzen/tzatziki.md" >}} "Link naar tzatziki recept")
 - Eventueel: [Guacemole]({{< relref "/sauzen/guacemole.md" >}} "Link naar guacemole recept")

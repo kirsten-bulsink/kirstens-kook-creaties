@@ -8,10 +8,10 @@ featured_image: "images/IMG_4274.jpeg"
 **Ingrediënten**
 
 *Voor 2 personen*
-- 400 gram oosterse wokgroenten (of snij zelf prei, paprika, kool en tauge) 
+- 400 g oosterse wokgroenten (of snij zelf prei, paprika, kool en tauge) 
 - Nasi boemboe 
 - Rijst
-- 1 pakje (160 gram) vega kipstukjes
+- 1 pakje (160 g) vega kipstukjes
 - 1 eetlepel sojasaus
 - Gebakken uitjes
 - Satesaus

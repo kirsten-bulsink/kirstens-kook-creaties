@@ -11,7 +11,7 @@ Recept nog schrijven
 
 *Voor 2 personen*
 - 2 grote wraps (volkoren)
-- 200 gram spinazie
+- 200 g spinazie
 - Champignons
 - Rode ui
 - Zuivelspread

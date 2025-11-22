@@ -19,11 +19,11 @@ featured_image: "images/IMG_0536.jpeg"
 - Gedroogd laurierblaadje
 - 1 bouillonblokje
 - Italiaanse kruiden
-- 600 gram spinazie
-- 250 gram ricotta
+- 600 g spinazie
+- 250 g ricotta
 - 1 citroen (schil)
 - 1 theelepel nootmuskaat
-- 150 gram parmezaanse kaas
+- 150 g parmezaanse kaas
 - 2 grote tomaten
 - 2 bollen mozzarella
 

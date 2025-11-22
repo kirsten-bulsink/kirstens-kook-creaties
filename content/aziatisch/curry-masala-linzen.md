@@ -9,16 +9,16 @@ featured_image: "images/IMG_0787.jpeg"
 
 *Voor 4 personen*
 - 3 paprika's
-- 400 gram spinazie
+- 400 g spinazie
 - 1 ui
 - 2cm gember
 - 2 grote lepels gele curry van Koh Thai
 - 1 blik tomatenblokjes
-- 400 gram gedroogde rode linzen
+- 400 g gedroogde rode linzen
 - 400 ml kokosmelk
 - Yoghurt
 - Koriander
-- Rijst (40gram pp)
+- Rijst (40g pp)
 - 2 naanbroden
 
 **Recept**

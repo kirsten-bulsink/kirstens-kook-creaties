@@ -8,7 +8,7 @@ featured_image: "images/IMG_0522.jpeg"
 **Ingrediënten**
 
 *Voor 4 personen*
-- Bulgur (75 gram pp)
+- Bulgur (75 g pp)
 - 1,5 groentebouillonblokje
 - 1 ui
 - 1 aubergine
@@ -17,7 +17,7 @@ featured_image: "images/IMG_0522.jpeg"
 - 400gr kikkererwten
 - 400gr tomatenblokjes
 - 2 handjes rozijnen
-- 200 gram feta
+- 200 g feta
 - 2 eetlepels ras el hanout kruiden
 - Eventueel: verse peterselie, naar smaak
 - Eventueel: pakje falafel voor er bij

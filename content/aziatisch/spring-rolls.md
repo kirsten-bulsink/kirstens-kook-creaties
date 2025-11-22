@@ -10,10 +10,10 @@ featured_image: "images/IMG_2690.jpeg"
 *Voor 4 personen*
 - 1 pak rijstvellen (reken ongeveer 4 vellen per persoon)
 - 2 porties rijstnoedels (bijv. van Fairtrade)
-- 300 gram vegetarische kipstukjes\*
+- 300 g vegetarische kipstukjes\*
 - 2 zoete punt paprika's
 - Halve komkommer
-- 150 gram geraspte wortel (of een mix van wortel en kool)
+- 150 g geraspte wortel (of een mix van wortel en kool)
 - 2 avocado's
 - 3 stengels bosui
 - 1 mango

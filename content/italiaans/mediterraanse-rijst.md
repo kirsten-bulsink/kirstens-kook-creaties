@@ -16,7 +16,7 @@ featured_image: "images/IMG_0926.jpeg"
 - 1 courgette
 - 1 aubergine
 - 2 paprika's
-- 200 gram feta
+- 200 g feta
 - Italiaanse kruiden
 - Verse peterselie
 

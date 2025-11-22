@@ -8,27 +8,30 @@ featured_image: "images/IMG_6380.jpeg"
 **Ingrediënten**
 
 *Voor 2 personen*
-- 250 gram aardappelpartjes (met schil)
+- 250 g aardappelpartjes (voorgekookt, met schil)
 - 1 rode ui
 - 1/2 courgette
 - 1 grote hand snoeptomaatjes
 - 4 eieren
-- 75 gram geraspte kaas
-- 15 gram verse bieslook
+- 75 g geraspte kaas
+- 15 g verse bieslook
 - Eventueel: 1 theelepel chilivlokken 
-- 1 eetlepel boter
+- Boter (om in te bakken)
 
 **Benodigdheden**
-- Pan met een beetje dikke bodem
+- Koekenpan met een dikke bodem
 - Houten sateprikker
 
 **Recept**
-1. Snij de aardappelpartjes in kleinere stukjes. Verhit de boter in de pan en bak de aardappeltjes op middelhoog vuur. Zout de aardappeltjes.
-2. Snij ondertussen de courgette in kleine blokjes en de rode ui in halve ringen. Voeg de groenten na ongeveer 10 minuten bij de aardappels en bak tot alles goudbruin is.
-4. Snij ondertussen de tomaatjes door midden en de bieslook fijn. Voeg dit tomaatjes en de helft van de bieslook toe aan de pan.
+1. Snij de courgette in kleine blokjes, de rode ui in halve ringen en de aardappelpartjes doormidden.
+2. Verhit de boter in de pan en bak de aardappelpartjes op middelhoog vuur.
+3. Voeg na ongeveer 10 minuten de courgette en ui toe en bak tot alles goudbruin is.
+4. Snij ondertussen de tomaatjes doormidden en de bieslook fijn.
+5. Klop de eieren met zout, peper en eventueel chilivlokken.
+6. Als de groenten gaar zijn, voeg je de tomaatjes en de helft van de bieslook toe. Bak kort mee.
 ![frittata groente in de pan](/IMG_6368.jpeg)
-5. Kluts de eieren met zout, peper en eventueel de chilivlokken.
-6. Voeg het eiermengsel toe aan de pan en bestrooi de frittata met kaas.
-7. Draai het vuur laag en hou de onderkant van de frittata goed in de gaten. De frittata is na ongeveer 15-20 minuten gaar. Kijk goed of het ei volledig is gestold. Het kan helpen om een klein gaatje met een houten sateprikker te maken waar het ei nog niet gestold is. 
+7. Schenk het eiermengsel over de groenten en bestrooi met geraspte kaas.
+8. Draai het vuur laag en let goed op de onderkant. De frittata is na ongeveer 15-20 minuten gaar. 
+9. Kijk goed of het ei volledig is gestold! Maak eventueel met een sateprikker een klein gaatje waar het ei nog niet gestold is. 
 ![frittata gaar](/IMG_6376.jpeg)
-8. Snij de frittata in 4'en zodat je hem makkelijker uit de pan kan scheppen. Garneer met de overige bieslook.
+10. Snij de frittata in vier stukken en schep voorzichtig uit de pan. Garneer met de rest van de bieslook.

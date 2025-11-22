@@ -11,9 +11,9 @@ featured_image: "images/IMG_0947.jpeg"
 - Pasta (spaghetti) 
 - 1 grote ui 
 - 1 grote courgette
-- 200 gram verse spinazie
-- 200 gram cherry tomaatjes 
-- 200 gram gerookte zalm 
+- 200 g verse spinazie
+- 200 g cherry tomaatjes 
+- 200 g gerookte zalm 
 - 200 ml (soja)room
 - 2 grote eetlepels tomatenpuree 
 - Eventueel: witte wijn (half glas) 

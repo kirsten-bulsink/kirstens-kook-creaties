@@ -6,15 +6,17 @@ featured_image: "images/IMG_2545.jpeg"
 ---
 
 **Ingrediënten**
-- 170 gram griekse yoghurt (klein bakje Dodoni 5%)
-- Sap van een halve citroen
-- Grote theelepel Vadouvan kruiden
-- Grote theelepel komijn (gemalen)
-- Eetlepel siracha
+- 250 g Griekse yoghurt (5%)
+- Sap van 1/2 citroen
+- 1 theelepel Vadouvan kruiden
+- 1 theelepel komijn (gemalen)
+- 1 eetlepel siracha
 
 **Recept**
-1. Meng het citroensap met de yoghurt.
-2. Voeg alle kruiden toe en breng op smaak met zout.
+1. Doe de Griekse yoghurt in een kom en voeg het citroensap toe. 
+2. Voeg de Vadouvan kruiden, gemalen komijn en siracha toe. Roer alles goed door elkaar.
+3. Breng op smaak met een snufje zout en proef. Voeg eventueel extra kruiden toe zo nodig.
 
 **Waar eet je het bij?**
-- [Ovengroente]({{< relref "/bakplaat/ovengroente-yoghurtsaus.md" >}} "Link naar ovengroente met yoghurtsaus recept")
+- [Groente bakplaat met krokante feta]({{< relref "/bakplaat/ovengroente-yoghurtsaus.md" >}} "Link naar ovengroente met yoghurtsaus recept")
+- [Herfstige bakplaat met pompoen]({{< relref "/bakplaat/herfst-bakplaat.md" >}} "Link naar herfstige bakplaat met pompoen recept")

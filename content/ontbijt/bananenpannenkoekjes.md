@@ -8,9 +8,9 @@ featured_image: "images/IMG_3945.jpeg"
 **Ingrediënten**
 
 *Voor ~9 pannenkoekjes*
-- 1 grote of 2 kleine oude bananen met bruine vlekken (ongeveer 200 gram zonder schil)
+- 1 grote of 2 kleine oude bananen met bruine vlekken (ongeveer 200 g zonder schil)
 - 2 eieren
-- 30 gram bloem
+- 30 g bloem
 - Snuf zout
 - Boter (voor het bakken)
 - Honing

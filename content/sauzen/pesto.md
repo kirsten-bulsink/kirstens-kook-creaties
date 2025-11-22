@@ -6,10 +6,10 @@ featured_image: "images/IMG_2489.jpeg"
 ---
 
 **Ingrediënten**
-- 30 gram basilicum (blaadjes van 1 plantje)
-- 20 gram rucola
-- 50 gram zonnebloempitten
-- 50 gram parmezaanse kaas (parmigiano reggiano)
+- 30 g basilicum (blaadjes van 1 plantje)
+- 20 g rucola
+- 50 g zonnebloempitten
+- 50 g parmezaanse kaas (parmigiano reggiano)
 - 100-120 ml extra vierge olijfolie
 - 1 teen knoflook
 

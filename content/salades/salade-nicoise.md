@@ -1,7 +1,7 @@
 ---
 title: 'Salade Nicoise'
 date: 2024-02-06T10:21:24+01:00
-tags: ["vis", "favoriet"]
+tags: ["vis"]
 featured_image: "images/IMG_1433.jpeg"
 ---
 
@@ -12,11 +12,11 @@ featured_image: "images/IMG_1433.jpeg"
 - 1 avocado
 - 2 handjes cherrytomaatjes 
 - Halve rode ui
-- 250 gram sperziebonen
+- 250 g sperziebonen
 - 2 eieren
 - Zwarte olijven 
 - 1 blikje tonijn
-- 400 gram krieltjes in de schil
+- 400 g krieltjes in de schil
 - Provencaalse kruiden
 - 2 eetlepels extra vierge olijfolie
 - Halve citroen

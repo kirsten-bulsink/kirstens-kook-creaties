@@ -1,7 +1,7 @@
 ---
-title: 'Provencaalse bakplaat met parelcouscous'
+title: 'Provencaalse Bakplaat met Parelcouscous'
 date: 2025-07-21T20:26:10+01:00
-tags: ["vega", "nieuw"]
+tags: ["vega"]
 featured_image: "images/IMG_5178.jpeg"
 ---
 
@@ -10,7 +10,7 @@ featured_image: "images/IMG_5178.jpeg"
 *Voor 2 personen*
 
 *De bakplaat*  
-- 150 gram kikkererwten
+- 150 g kikkererwten
 - 1 rode ui
 - 3/4 courgette
 - 1 grote hand snoeptomaatjes
@@ -20,12 +20,12 @@ featured_image: "images/IMG_5178.jpeg"
 
 *De parelcouscous*
 - 1 teen knoflook
-- 150 gram parelcouscous
+- 150 g parelcouscous
 - 1/2 bouillonblokje
 - 350 ml water
 - 1/2 citroen
 - 2 stengels bosui
-- 100 gram feta
+- 100 g feta
 
 **Benodigdheden**
 - Oven

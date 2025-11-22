@@ -8,6 +8,7 @@ Soms maak ik een recept dat zó lekker is, dat ik er niets aan zou veranderen. H
 
 **Hoofdgerechten**
 - [Courgetti met gamba's](https://chickslovefood.com/recept/courgetti-met-gambas/)
+- [Lenteorzo et burrata van Veggilaine](https://www.instag.com/reel/C55FK0LKIpI/?hl=nl)
 - [Ravioli met ricotta en spinazie](https://watschaftdepodcast.com/recept/ravioli-met-spinazie-en-ricotta/)
 
 ![ravioli met ricotta spinazie](/IMG_4098.jpeg)

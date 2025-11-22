@@ -11,7 +11,7 @@ featured_image: "images/IMG_2536.jpeg"
 - Flink stuk gember
 - 1 rode peper
 - 2 tenen knoflook
-- 600 gram wokgroente (uit een zak of snij zelf paprika, prei, kool, tauge)
+- 600 g wokgroente (uit een zak of snij zelf paprika, prei, kool, tauge)
 - 400 ml kokosmelk 
 - 1,5 blokje groentebouillon
 - 850 ml water 

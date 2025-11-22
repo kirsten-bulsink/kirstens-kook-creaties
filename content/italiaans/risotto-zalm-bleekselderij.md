@@ -14,8 +14,8 @@ featured_image: "images/plate.jpg"
 - 2 bouillonblokjes
 - Half glas witte wijn
 - 100(?) ml (soja) kookroom
-- 150(?) gram parmezaanse kaas
-- 200 gram gerookte zalm
+- 150(?) g parmezaanse kaas
+- 200 g gerookte zalm
 - Citroen
 
 Variatie: bleekselderij vervangen door spinazie en verse pesto

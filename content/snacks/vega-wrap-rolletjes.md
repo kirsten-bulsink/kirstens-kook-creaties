@@ -9,9 +9,9 @@ featured_image: "images/IMG_4061.jpeg"
 - 5 wraps
 - 2 avocado's
 - 1 limoen
-- 300 gram vegetarische kipstukjes
+- 300 g vegetarische kipstukjes
 - 1 courgette
-- 200 gram feta
+- 200 g feta
 - Ras el Hanout kruiden
 
 **Benodigdheden**

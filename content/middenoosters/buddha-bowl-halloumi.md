@@ -8,14 +8,14 @@ featured_image: "images/IMG_2673.jpeg"
 **Ingrediënten**
 
 *Voor 2 personen*
-- 150 gram bulgur
+- 150 g bulgur
 - Half bouillonblokje
-- 200 gram halloumi
+- 200 g halloumi
 - 2 handjes rucola
 - 1 avocado
-- 250 gram snoeptomaatjes
+- 250 g snoeptomaatjes
 - 1 aubergine
-- 200 gram kikkererwten
+- 200 g kikkererwten
 - Ras el hanout kruiden
 - Extra vierge olijfolie
 - 2 grote eetlepels hummus

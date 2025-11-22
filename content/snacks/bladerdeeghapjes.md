@@ -10,8 +10,8 @@ featured_image: "images/bladerdeeghapjes.jpg"
 - 1 ei
 
 *Vulling spinazie-feta*
-- 300? gram spinazie
-- 150? gram feta
+- 300? g spinazie
+- 150? g feta
 
 *Vulling geitenkaas-pijnboompit*
 - 1 pakje zachte geitenkaas

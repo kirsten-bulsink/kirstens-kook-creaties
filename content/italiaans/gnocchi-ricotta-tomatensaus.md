@@ -8,17 +8,17 @@ featured_image: "images/IMG_0764.jpeg"
 **Ingrediënten**
 
 *Voor 4 personen*
-- 750 gram gnocchi
+- 750 g gnocchi
 - 1 Ui
 - 2 tenen knoflook
 - 1 Aubergine
 - 1/2 courgette
-- 300 gram verse spinazie
+- 300 g verse spinazie
 - 1 blik gepelde tomaten
 - 500gr passata (gezeefde tomaten)
 - 1 groentebouillonblokje
-- 250 gram ricotta
-- Semi zongedroogde tomaten (80-100 gram, naar smaak)
+- 250 g ricotta
+- Semi zongedroogde tomaten (80-100 g, naar smaak)
 - Italiaanse kruiden
 
 **Recept**

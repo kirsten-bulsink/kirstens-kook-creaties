@@ -9,7 +9,7 @@ featured_image: "images/IMG_2616.jpeg"
 - 1 pakje (250gr) ongezouten roomboter
 - Zeezout (gemalen, geen fijn zout)
 - 1 a 2 tenen knoflook
-- 25 gram verse bieslook
+- 25 g verse bieslook
 
 **Recept**
 1. Laat de boter op kamertemperatuur worden in een kom. Als je er makkelijk met een vork doorheen kunt glijden dan is het goed. 

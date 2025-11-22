@@ -6,12 +6,12 @@ featured_image: "images/IMG_2584.jpeg"
 ---
 
 **Ingrediënten**
-- 75 gram sla melange
+- 75 g sla melange
 - 1/2 komkommer
 - 2 handjes snoeptomaatjes
 - 3 stengels bosui
 - 1 bakje granaatappelpitjes
-- 100 gram feta
+- 100 g feta
 - Half handje pompoenpitten
 - Half handje zonnebloempitten
 - 1 handje verse peterselie

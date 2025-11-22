@@ -6,24 +6,32 @@ featured_image: "images/IMG_0174.jpeg"
 ---
 
 **Ingrediënten**
-- Sushi rijst 
-- Rijstazijn
-- Vegetarische chicken tenders (van Vivera?)
-- Zeewiersalade
-- Sojaboontjes
-- Komkommer
-- Avocado
-- Bosui
-- Mango
-- Mayonaise
-- Siracha
-- Citroensap
-- Sesamzaadjes
+
+*Voor 4 personen*
+- 500 g sushi rijst 
+- 10 eetlepels rijstazijn
+- 2 pakjes plantaardige chicken tenders (van Vivera)
+- 1 bakje zeewiersalade
+- 1 komkommer
+- 1 paprika
+- 2 avocado's
+- 3 stengels bosui
+- 1 mango
+- 6 eetlepels mayonaise
+- 2 eetlepels siracha
+- Sap van een 1/3 citroen
+- Witte sesamzaadjes
 - Sojasaus
+- Olijfolie (om in te bakken)
+
+**Benodigdheden**
+- 4 diepe kommen
 
 **Recept**
-1. Bereid de sushirijst zoals aangegeven op de verpakking.
-2. Snij alle groente, avocado en mango.
-3. Bak de chicken tenders.
-4. Maak de siracha mayonaise van mayo, siracha en een klein beetje citroensap.
-5. Verdeel alle ingredienten mooi over diepe borden of kommen. Besprenkel met sojasaus, de sirachamayo en sesamzaadjes.
+1. Bereid de sushirijst volgens de aanwijzingen op de verpakking.
+2. Meng de rijstazijn met 2 theelepels zout. Roer dit mengsel voorzichtig door de sushirijst zodra deze gaar is.
+2. Snij ondertussen de komkommer en paprika in blokjes en de bosui in ringen. Halveer de avocado, verwijder de pit en snij in dunne plakjes. Schil de mango en snij in blokjes.
+3. Bak de chicken tenders in een koekenpan. Snijd ze daarna op een snijplank met een scherp mes in reepjes.
+4. Maak de sriracha-mayo door de mayonaise, sriracha en het citroensap in een kommetje te mengen.
+5. Nu kun je de poke bowl gaan opbouwen. Verdeel eerst de rijst over de kommen en leg daarna alle ingrediënten, gescheiden, bovenop de rijst.
+6. Besprenkel de pokebowl met sojasaus, de sirachamayo en de sesamzaadjes.

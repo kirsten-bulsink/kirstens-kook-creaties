@@ -13,7 +13,7 @@ featured_image: "images/IMG_0802.jpeg"
 - 2 courgettes
 - 1,5 groente bouillonblokje
 - 750 ml water
-- 15 gram verse bieslook
+- 15 g verse bieslook
 - 2 a 3 eetlepels philadelphia bieslook
 
 Variatie: met gerookte zalm

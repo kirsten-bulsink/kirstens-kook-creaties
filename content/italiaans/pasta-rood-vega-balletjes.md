@@ -8,7 +8,7 @@ featured_image: "images/IMG_0388.jpeg"
 **Ingrediënten**
 
 *Voor 4 personen*
-- Pasta (penne, 75 gram pp)
+- Pasta (penne, 75 g pp)
 - 1 ui
 - 1 Aubergine
 - 1 Courgette

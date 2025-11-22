@@ -1,5 +1,5 @@
 ---
-title: 'Ovengroente met Yoghurtsaus'
+title: 'Groente Bakplaat met Krokante Feta'
 date: 2024-02-07T11:06:22+01:00
 tags: ["vega"]
 featured_image: "images/IMG_2552.jpeg"
@@ -7,20 +7,18 @@ featured_image: "images/IMG_2552.jpeg"
 
 **Ingrediënten**
 
-*De bakplaat*  
+*Voor 4 personen* 
 - 2 paprika's
-- Aubergine
-- Courgette 
-- Snoeptomaatjes 
+- 1 Aubergine
+- 1 Courgette 
+- 2 handjes snoeptomaatjes 
 - Olijfolie
 - Vadouvan kruiden
-- 150 gram Feta
+- 150 g Feta
 - [Kruidige yoghurtsaus]({{< relref "/sauzen/kruidige-yoghurtsaus.md" >}} "Link naar kruidige yoghurtsaus recept")
-
-*Er bij*
-- Quinoa 
+- 200 g bulgur
 - Half bouillonblokje
-- Falafel
+- 300 g falafel
 
 **Benodigdheden**
 - Oven
@@ -28,11 +26,13 @@ featured_image: "images/IMG_2552.jpeg"
 
 **Recept**
 1. Verwarm de oven voor op 200 graden.
-2. Snij alle groente in blokjes en verdeel over een bakplaat. 
-3. Breng op smaak met olijfolie, vadouvan kruiden, zout en peper en meng goed. Verkruimel als laatste de feta over de groente. 
-4. Zet de bakplaat in de oven en bak in ~30 minuten goudbruin.
-5. Maak ondertussen de [Kruidige yoghurtsaus]({{< relref "/sauzen/kruidige-yoghurtsaus.md" >}} "Link naar kruidige yoghurtsaus recept").
-6. Kook de quinoa zoals aangegeven op de verpakking samen met een half bouillonblokje. Bak ook de falafel.
-7. Serveer de ovengroente met de quinoa, falafel en de yoghurtsaus. 
+2. Snij de paprika, aubergine en courgette in blokjes. Snij de ui in grove ringen en de kerstomaatjes doormidden. Verdeel alles over een bakplaat.
+3. Breng de groente op smaak met olijfolie, vadouvan kruiden, zout en peper. Meng goed. 
+4. Verkruimel de feta bovenop de groente en meng niet opnieuw! Bovenop wordt de feta namelijk het meest krokant.
+5. Zet de bakplaat in de oven en bak in ongeveer 30/35 minuten goudbruin.
+6. Maak ondertussen de [Kruidige yoghurtsaus]({{< relref "/sauzen/kruidige-yoghurtsaus.md" >}} "Link naar kruidige yoghurtsaus recept").
+7. Kook de bulgur zoals aangegeven op de verpakking samen met het halve bouillonblokje. Bak de falafel in een pan.
+8. Serveer de geroosterde groente met de bulgur, falafel en de yoghurtsaus. 
 
 ![ovengroente, quinoa en falafel](/IMG_2557.jpeg)
+Op deze foto heb ik de ovengroente gecombineerd met drie kleuren quinoa, ook erg lekker!

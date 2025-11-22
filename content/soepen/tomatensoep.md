@@ -14,7 +14,7 @@ featured_image: "images/IMG_1146.jpeg"
 - 1 blik gepelde tomaten (400gr) 
 - 1,5 groentebouillonblokje
 - 500 ml water 
-- 10 gram verse basilicum (1/3 plantje)
+- 10 g verse basilicum (1/3 plantje)
 - Italiaanse kruiden
 - 1 theelepeltje chilivlokken
 

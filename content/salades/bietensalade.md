@@ -10,7 +10,7 @@ featured_image: "images/IMG_0778.jpeg"
 - 3 bieten (voorgekookt)
 - Halve rode ui 
 - Halve komkommer
-- 100 gram feta 
+- 100 g feta 
 - Handje walnoten 
 - Olijfolie
 - Balsamico azijn

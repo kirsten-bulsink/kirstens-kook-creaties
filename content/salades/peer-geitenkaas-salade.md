@@ -10,7 +10,7 @@ featured_image: "images/image0.jpeg"
 *Voor 4 personen*
 - 75 g rucola
 - 2 peren
-- 1 bakje granaatappelpitjes (90 gram)
+- 1 bakje granaatappelpitjes (90 g)
 - 125 g zachte geitenkaas
 - 2 handjes pecannoten 
 - 2 el olijfolie

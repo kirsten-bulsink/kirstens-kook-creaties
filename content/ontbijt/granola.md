@@ -8,9 +8,9 @@ featured_image: "images/IMG_7177.jpeg"
 **Ingrediënten**
 
 *Voor 1 weckpot*
-- 500 gram grove (volkoren) havermout
-- 250 gram speltvlokken
-- 100 gram lijnzaad
+- 500 g grove (volkoren) havermout
+- 250 g speltvlokken
+- 100 g lijnzaad
 - Walnoten
 - Zonnebloempitten
 - Pompoenpitten
