@@ -1,7 +1,7 @@
 ---
 title: 'Gnocchi met Ricotta-tomatensaus'
 date: 2025-11-03T11:38:48+01:00
-tags: ["vega", "nieuw"]
+tags: ["vega"]
 featured_image: "images/IMG_0764.jpeg"
 ---
 
